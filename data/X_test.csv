@@ -1,0 +1,630 @@
+host_since,host_location,host_response_time,host_response_rate,host_acceptance_rate,host_is_superhost,host_listings_count,host_has_profile_pic,host_identity_verified,neighbourhood_cleansed,latitude,longitude,room_type,accommodates,bathrooms,bathrooms_text,bedrooms,beds,minimum_nights,maximum_nights,minimum_minimum_nights,minimum_maximum_nights,availability_30,availability_365,number_of_reviews,instant_bookable,calculated_host_listings_count,calculated_host_listings_count_private_rooms
+2012-11-04,"Bristol, United Kingdom",within an hour,100%,100%,t,2.0,t,t,Eastville,51.47378,-2.55753,Private room,2.0,1.0,1 shared bath,1.0,1.0,2.0,45.0,1.0,45.0,9.0,9.0,15.0,f,2.0,1.0
+2014-09-06,"Bristol, United Kingdom",within an hour,100%,99%,t,3.0,t,t,Ashley,51.47303,-2.57739,Private room,6.0,0.5,Shared half-bath,1.0,3.0,2.0,1125.0,2.0,1125.0,23.0,130.0,92.0,f,3.0,3.0
+2019-01-06,"Winterbourne, United Kingdom",within an hour,100%,96%,t,4.0,t,t,Frome Vale,51.49246,-2.52059,Private room,2.0,1.0,1 shared bath,1.0,1.0,1.0,4.0,1.0,4.0,24.0,312.0,15.0,f,2.0,2.0
+2016-08-08,"England, United Kingdom",within an hour,100%,100%,f,1.0,t,t,Windmill Hill,51.44324,-2.57483,Entire home/apt,4.0,1.0,1 bath,1.0,1.0,4.0,30.0,4.0,1125.0,26.0,39.0,42.0,f,1.0,0.0
+2013-11-03,"England, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Clifton Down,51.46842,-2.61446,Entire home/apt,4.0,1.0,1 bath,0.0,2.0,1.0,5.0,1.0,1125.0,20.0,20.0,254.0,f,1.0,0.0
+2021-03-16,,within a few hours,100%,91%,f,2.0,t,t,Avonmouth & Lawrence Weston,51.49288,-2.64675,Entire home/apt,5.0,1.0,1 bath,2.0,3.0,1.0,7.0,1.0,7.0,16.0,103.0,316.0,f,2.0,0.0
+2017-08-10,"England, United Kingdom",within an hour,100%,99%,t,1.0,t,t,Bedminster,51.432,-2.6243,Private room,2.0,1.0,1 shared bath,1.0,1.0,1.0,8.0,1.0,1125.0,20.0,73.0,178.0,f,1.0,1.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Clifton,51.4592338,-2.6222093,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,365.0,14.0,338.0,8.0,t,148.0,3.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Horfield,51.488222,-2.5851802,Entire home/apt,2.0,1.0,1 bath,0.0,1.0,1.0,365.0,1.0,365.0,21.0,356.0,11.0,t,148.0,3.0
+2021-09-17,,within an hour,100%,97%,f,1.0,t,t,Lawrence Hill,51.45326,-2.57898,Entire home/apt,4.0,2.0,2 baths,2.0,2.0,2.0,1125.0,2.0,2.0,25.0,261.0,10.0,t,1.0,0.0
+2022-06-30,,within an hour,100%,100%,f,54.0,t,t,St George Central,51.4609766,-2.5396528,Entire home/apt,4.0,1.0,1 bath,2.0,4.0,2.0,3.0,2.0,3.0,0.0,34.0,39.0,t,32.0,0.0
+2015-12-16,"Bristol, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Stoke Bishop,51.4839802,-2.6294488,Private room,2.0,1.0,1 private bath,1.0,1.0,2.0,365.0,2.0,365.0,14.0,227.0,23.0,f,1.0,1.0
+2014-08-16,"Bristol, United Kingdom",within a day,100%,43%,f,1.0,t,t,Horfield,51.49623036291203,-2.5778772939484123,Entire home/apt,6.0,1.5,1.5 baths,3.0,3.0,2.0,7.0,2.0,7.0,0.0,169.0,1.0,f,1.0,0.0
+2014-10-22,"Bristol, United Kingdom",within an hour,100%,95%,t,2.0,t,t,Cotham,51.4681,-2.60612,Entire home/apt,4.0,1.5,1.5 baths,2.0,3.0,2.0,365.0,1.0,365.0,14.0,343.0,70.0,f,1.0,0.0
+2019-01-14,"Bristol, United Kingdom",within an hour,100%,100%,t,60.0,t,t,Hotwells & Harbourside,51.4520823,-2.603859,Entire home/apt,2.0,1.0,1 bath,1.0,2.0,2.0,1125.0,2.0,365.0,0.0,24.0,0.0,t,47.0,0.0
+2021-12-01,,within an hour,99%,97%,f,46.0,t,t,Clifton,51.45348,-2.61877,Entire home/apt,2.0,1.0,1 bath,0.0,1.0,1.0,365.0,1.0,999.0,28.0,363.0,44.0,f,30.0,0.0
+2015-12-18,"Bristol, United Kingdom",within an hour,100%,97%,f,33.0,t,t,Clifton Down,51.46086,-2.60918,Entire home/apt,6.0,2.0,2 baths,3.0,4.0,2.0,1125.0,3.0,1125.0,16.0,61.0,68.0,f,26.0,0.0
+2013-05-28,"Bristol, United Kingdom",within an hour,100%,98%,t,1.0,t,t,Ashley,51.47127,-2.59107,Entire home/apt,3.0,1.0,1 bath,1.0,2.0,1.0,28.0,1.0,1125.0,2.0,276.0,338.0,f,1.0,0.0
+2017-04-13,"Bristol, United Kingdom",within an hour,99%,97%,f,100.0,t,t,Clifton,51.45694,-2.61049,Entire home/apt,2.0,1.0,1 bath,1.0,2.0,1.0,1125.0,1.0,1125.0,0.0,315.0,18.0,f,67.0,0.0
+2015-01-05,"Bristol, United Kingdom",,,100%,f,1.0,t,t,Redland,51.47416,-2.59722,Entire home/apt,8.0,3.0,3 baths,5.0,5.0,3.0,18.0,3.0,18.0,0.0,261.0,17.0,f,1.0,0.0
+2012-12-23,"Bristol, United Kingdom",within an hour,100%,67%,f,1.0,t,t,St George West,51.4608853,-2.5433588,Entire home/apt,6.0,1.0,1 bath,2.0,3.0,2.0,14.0,2.0,14.0,1.0,16.0,4.0,f,1.0,0.0
+2020-08-28,"Bristol, United Kingdom",within a few hours,100%,100%,f,1.0,t,t,Bishopsworth,51.4144689,-2.6005947,Entire home/apt,4.0,1.5,1.5 baths,1.0,2.0,2.0,30.0,2.0,30.0,19.0,246.0,3.0,f,1.0,0.0
+2017-04-13,"Bristol, United Kingdom",within an hour,99%,97%,f,100.0,t,t,Central,51.45909361059369,-2.6071828599957083,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,2.0,365.0,23.0,354.0,11.0,t,67.0,0.0
+2020-02-02,"Cardiff, United Kingdom",within an hour,100%,97%,f,5.0,t,t,Lawrence Hill,51.464946,-2.568883,Entire home/apt,3.0,1.0,1 bath,1.0,2.0,2.0,30.0,2.0,1125.0,16.0,139.0,16.0,f,1.0,0.0
+2016-04-24,"Bristol, United Kingdom",within an hour,100%,99%,f,1.0,t,t,Redland,51.47203,-2.59628,Entire home/apt,6.0,1.0,1 bath,2.0,3.0,5.0,45.0,2.0,45.0,13.0,107.0,236.0,f,1.0,0.0
+2021-12-01,,within an hour,99%,97%,f,46.0,t,t,Hotwells & Harbourside,51.45401,-2.60632,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,2.0,999.0,8.0,291.0,11.0,f,30.0,0.0
+2022-10-25,,within an hour,100%,100%,f,2.0,t,t,Ashley,51.46162227709812,-2.5887439195739703,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,1000.0,2.0,1000.0,25.0,175.0,79.0,f,2.0,0.0
+2014-08-03,"London, United Kingdom",within an hour,100%,73%,f,9.0,t,t,Clifton,51.45353,-2.62075,Entire home/apt,6.0,3.5,3.5 baths,3.0,5.0,5.0,1125.0,5.0,1125.0,0.0,282.0,19.0,f,6.0,0.0
+2017-04-13,"Bristol, United Kingdom",within an hour,99%,97%,f,100.0,t,t,Central,51.44716,-2.59419,Entire home/apt,4.0,1.0,1 bath,1.0,3.0,1.0,1125.0,2.0,1125.0,12.0,274.0,22.0,f,67.0,0.0
+2022-04-19,,,,100%,f,1.0,t,t,Henbury & Brentry,51.5,-2.61926,Private room,2.0,1.0,1 shared bath,1.0,1.0,2.0,365.0,2.0,365.0,30.0,365.0,17.0,t,1.0,1.0
+2022-06-30,,within an hour,100%,100%,f,54.0,t,t,Central,51.45559,-2.59308,Entire home/apt,2.0,1.0,1 bath,0.0,1.0,1.0,365.0,2.0,99.0,29.0,267.0,4.0,t,32.0,0.0
+2014-10-01,"Bristol, United Kingdom",within an hour,100%,96%,t,2.0,t,t,Redland,51.47931,-2.59137,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,3.0,120.0,2.0,1125.0,15.0,69.0,65.0,f,1.0,0.0
+2014-07-13,"Bristol, United Kingdom",within an hour,100%,100%,t,2.0,t,t,Clifton,51.45228,-2.6236,Entire home/apt,7.0,2.5,2.5 baths,4.0,5.0,2.0,31.0,2.0,1125.0,0.0,228.0,114.0,f,2.0,0.0
+2015-03-08,"Bristol, United Kingdom",within an hour,100%,100%,f,1.0,t,t,Clifton Down,51.46193,-2.61357,Entire home/apt,6.0,3.5,3.5 baths,4.0,3.0,3.0,60.0,2.0,1125.0,0.0,39.0,26.0,f,1.0,0.0
+2017-04-13,"Bristol, United Kingdom",within an hour,99%,97%,f,100.0,t,t,Southville,51.44555729592818,-2.600838134093082,Entire home/apt,6.0,1.0,1 bath,2.0,3.0,1.0,365.0,1.0,365.0,27.0,359.0,2.0,f,67.0,0.0
+2016-02-24,"Bristol, United Kingdom",,,,f,2.0,t,t,Hotwells & Harbourside,51.45383,-2.60577,Entire home/apt,8.0,1.0,1 bath,4.0,6.0,14.0,40.0,14.0,40.0,0.0,130.0,10.0,f,2.0,1.0
+2015-11-11,"Bristol, United Kingdom",within an hour,100%,100%,t,2.0,t,t,Westbury-on-Trym & Henleaze,51.49464,-2.61207,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,1125.0,1.0,1125.0,18.0,342.0,452.87,f,2.0,2.0
+2014-07-24,"Bristol, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Bedminster,51.43184,-2.61319,Private room,3.0,1.0,1 shared bath,1.0,2.0,1.0,365.0,1.0,365.0,4.0,14.0,36.0,t,1.0,1.0
+2017-11-05,"Bristol, United Kingdom",within a few hours,90%,59%,f,3.0,t,t,Clifton,51.455237912095136,-2.6150807270978613,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,2.0,365.0,2.0,365.0,30.0,361.0,0.0,f,3.0,0.0
+2020-02-15,"England, United Kingdom",,,71%,f,1.0,t,t,Eastville,51.47897,-2.54208,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,5.0,365.0,3.0,365.0,1.0,4.0,10.0,f,1.0,0.0
+2019-06-29,,within an hour,90%,100%,f,1.0,t,t,Eastville,51.48056,-2.54814,Entire home/apt,4.0,1.5,1.5 baths,3.0,4.0,2.0,1125.0,2.0,1125.0,19.0,341.0,6.0,t,1.0,0.0
+2017-08-11,"Bristol, United Kingdom",within an hour,100%,92%,f,37.0,t,t,Central,51.45776,-2.60851,Entire home/apt,2.0,0.0,0 baths,1.0,1.0,1.0,365.0,1.0,999.0,6.0,338.0,4.0,t,25.0,0.0
+2014-08-07,,within an hour,100%,100%,f,1.0,t,f,Frome Vale,51.48672131901905,-2.545134493345549,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,365.0,2.0,365.0,0.0,253.0,0.0,t,1.0,0.0
+2015-12-18,"Bristol, United Kingdom",within an hour,100%,97%,f,33.0,t,t,Lockleaze,51.49151,-2.57529,Entire home/apt,12.0,4.0,8 baths,6.0,9.0,14.0,365.0,7.0,365.0,21.0,70.0,0.0,t,26.0,0.0
+2017-11-16,"Bristol, United Kingdom",within an hour,100%,98%,f,51.0,t,t,Easton,51.45901557796399,-2.556703928578735,Entire home/apt,12.0,2.0,2 baths,6.0,6.0,2.0,1125.0,2.0,365.0,30.0,128.0,0.0,t,2.0,0.0
+2022-09-02,,within an hour,100%,95%,f,26.0,t,t,Ashley,51.46016,-2.58589,Entire home/apt,5.0,2.0,2 baths,2.0,2.0,2.0,180.0,2.0,1125.0,7.0,212.0,34.0,f,2.0,0.0
+2016-03-16,"Bristol, United Kingdom",a few days or more,40%,20%,f,2.0,t,t,Clifton,51.45267,-2.62224,Entire home/apt,4.0,2.5,2.5 baths,2.0,2.0,4.0,1125.0,4.0,1125.0,1.0,21.0,46.0,f,1.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Cotham,51.4643843,-2.6010634,Entire home/apt,6.0,3.0,3 baths,3.0,3.0,2.0,365.0,1.0,1125.0,9.0,276.0,11.0,t,148.0,3.0
+2019-01-14,"Bristol, United Kingdom",within an hour,100%,100%,t,60.0,t,t,Hotwells & Harbourside,51.45306449666276,-2.604141688384728,Entire home/apt,4.0,1.0,1 bath,1.0,3.0,2.0,1125.0,2.0,365.0,0.0,24.0,0.0,t,47.0,0.0
+2015-05-30,"Bristol, United Kingdom",within an hour,100%,75%,t,2.0,t,t,Windmill Hill,51.44284,-2.58339,Private room,2.0,1.0,1 shared bath,1.0,1.0,1.0,365.0,1.0,365.0,14.0,200.0,11.0,f,2.0,1.0
+2016-01-02,"Bristol, United Kingdom",within a few hours,86%,58%,t,2.0,t,t,Lockleaze,51.47414,-2.572811,Entire home/apt,6.0,1.5,1.5 baths,3.0,3.0,2.0,14.0,2.0,14.0,25.0,354.0,30.0,f,2.0,1.0
+2015-10-05,"Bristol, United Kingdom",within a few hours,100%,100%,f,1.0,t,t,Cotham,51.47239953923938,-2.61038824228559,Entire home/apt,9.0,3.0,3 baths,4.0,6.0,6.0,365.0,6.0,365.0,9.0,123.0,0.0,f,1.0,0.0
+2018-09-08,"Bristol, United Kingdom",within an hour,100%,99%,t,1.0,t,t,St George West,51.45999,-2.55282,Entire home/apt,2.0,1.0,1 bath,0.0,1.0,2.0,30.0,2.0,30.0,19.0,61.0,355.0,f,1.0,0.0
+2015-08-09,"Bristol, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Ashley,51.46145,-2.5859,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,2.0,27.0,2.0,1125.0,3.0,6.0,99.0,t,1.0,0.0
+2014-02-23,"Bristol, United Kingdom",within a few hours,100%,67%,f,1.0,t,t,Stoke Bishop,51.47983439183917,-2.631565755274239,Entire home/apt,7.0,3.0,3 baths,4.0,4.0,6.0,182.0,6.0,182.0,3.0,190.0,0.0,f,1.0,0.0
+2016-03-21,"Bristol, United Kingdom",within a few hours,100%,85%,t,1.0,t,t,Windmill Hill,51.43656,-2.58805,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,365.0,1.0,365.0,23.0,303.0,111.0,f,1.0,1.0
+2013-05-08,"Bristol, United Kingdom",within a day,100%,50%,f,1.0,t,t,Windmill Hill,51.43693,-2.5957,Entire home/apt,8.0,2.0,2 baths,4.0,5.0,2.0,3.0,1.0,3.0,10.0,51.0,5.0,f,1.0,0.0
+2014-06-10,"Bristol, United Kingdom",within an hour,100%,100%,t,39.0,t,f,Stockwood,51.41878,-2.54041,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,3.0,365.0,3.0,999.0,0.0,17.0,12.0,t,20.0,0.0
+2016-09-09,"Bristol, United Kingdom",,,25%,f,1.0,t,f,Windmill Hill,51.43714,-2.58653,Entire home/apt,6.0,2.5,2.5 baths,3.0,3.0,2.0,5.0,2.0,5.0,2.0,122.0,13.0,f,1.0,0.0
+2014-09-14,"Bristol, United Kingdom",within an hour,100%,100%,f,1.0,t,t,Southville,51.44519,-2.60007,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,14.0,22.0,14.0,22.0,18.0,25.0,69.0,f,1.0,0.0
+2021-07-03,"Cheltenham, United Kingdom",within an hour,83%,100%,f,15.0,t,t,Ashley,51.46103,-2.58446,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,2.0,28.0,2.0,1125.0,18.0,325.0,87.0,t,15.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Hotwells & Harbourside,51.451374,-2.604279,Entire home/apt,4.0,1.5,1.5 baths,2.0,2.0,1.0,365.0,1.0,365.0,14.0,110.0,9.0,t,148.0,3.0
+2015-02-06,"Bristol, United Kingdom",within a few hours,100%,78%,t,4.0,t,t,Knowle,51.43834,-2.56375,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,70.0,1.0,70.0,23.0,132.0,86.0,f,4.0,3.0
+2021-09-15,"Fremington, United Kingdom",within an hour,100%,95%,t,5.0,t,t,Avonmouth & Lawrence Weston,51.4957541,-2.6692184,Entire home/apt,8.0,1.5,1.5 baths,4.0,7.0,1.0,365.0,3.0,1125.0,4.0,339.0,13.0,f,4.0,0.0
+2020-01-28,"England, United Kingdom",within an hour,100%,100%,t,2.0,t,t,Westbury-on-Trym & Henleaze,51.4909,-2.61697,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,2.0,31.0,2.0,1125.0,21.0,113.0,118.0,f,1.0,0.0
+2016-02-06,"Bristol, United Kingdom",within a few hours,100%,94%,t,2.0,t,t,Lockleaze,51.48114,-2.57496,Private room,2.0,1.5,1.5 shared baths,1.0,1.0,1.0,1125.0,1.0,1125.0,12.0,241.0,45.0,f,2.0,1.0
+2013-06-22,"Bristol, United Kingdom",within an hour,100%,92%,f,1.0,t,f,Windmill Hill,51.43916853612992,-2.589954100549221,Private room,2.0,1.0,1 private bath,1.0,1.0,2.0,7.0,2.0,7.0,5.0,73.0,6.0,f,1.0,1.0
+2014-03-30,"Bristol, United Kingdom",within an hour,100%,92%,f,1.0,t,f,Ashley,51.46898999894243,-2.590054576721184,Private room,2.0,1.0,1 shared bath,1.0,1.0,1.0,14.0,1.0,14.0,20.0,73.0,5.0,f,1.0,1.0
+2022-01-18,,within an hour,100%,99%,t,9.0,t,t,Southville,51.44137,-2.60204,Entire home/apt,6.0,1.0,1 bath,2.0,3.0,1.0,365.0,1.0,365.0,21.0,310.0,23.0,t,9.0,5.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Lawrence Hill,51.4568807,-2.5816885,Entire home/apt,2.0,0.0,0 baths,,1.0,1.0,365.0,1.0,365.0,6.0,323.0,0.0,t,148.0,3.0
+2014-08-27,"Bristol, United Kingdom",within an hour,100%,96%,f,1.0,t,t,Clifton Down,51.46834,-2.61641,Entire home/apt,4.0,2.5,2.5 baths,2.0,2.0,3.0,30.0,3.0,30.0,14.0,88.0,58.0,f,1.0,0.0
+2016-07-07,"Bristol, United Kingdom",,,43%,f,3.0,t,t,Redland,51.47668,-2.5912,Private room,2.0,1.5,1.5 shared baths,1.0,1.0,2.0,10.0,2.0,10.0,29.0,179.0,32.0,f,3.0,3.0
+2017-04-13,"Bristol, United Kingdom",within an hour,99%,97%,f,100.0,t,t,Clifton,51.46206765306605,-2.61716287314782,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,365.0,24.0,357.0,1.0,t,67.0,0.0
+2015-09-29,"Bristol, United Kingdom",within a few hours,100%,92%,f,5.0,t,t,Ashley,51.46659482516089,-2.58003619206542,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,3.0,365.0,3.0,365.0,10.0,57.0,43.0,f,5.0,0.0
+2023-03-09,,within a few hours,90%,79%,f,7.0,t,t,Westbury-on-Trym & Henleaze,51.48824447446707,-2.617090122525452,Entire home/apt,4.0,1.5,1.5 baths,2.0,2.0,2.0,365.0,2.0,365.0,0.0,171.0,0.0,f,5.0,0.0
+2017-04-13,"Bristol, United Kingdom",within an hour,99%,97%,f,100.0,t,t,Central,51.45936106821499,-2.6064275021674583,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,2.0,365.0,2.0,322.0,3.0,t,67.0,0.0
+2022-01-08,"Bristol, United Kingdom",within an hour,100%,95%,t,20.0,t,t,Cotham,51.46243,-2.59566,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,4.0,365.0,2.0,999.0,3.0,153.0,7.0,t,13.0,0.0
+2015-10-12,"England, United Kingdom",within an hour,100%,98%,t,17.0,t,t,Horfield,51.4928537,-2.5760865,Entire home/apt,10.0,1.0,1 bath,5.0,,3.0,45.0,1.0,45.0,16.0,132.0,5.0,f,15.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Central,51.45396,-2.60002,Entire home/apt,2.0,1.0,1 bath,0.0,1.0,1.0,365.0,1.0,365.0,29.0,183.0,16.0,t,148.0,3.0
+2014-10-06,"Bristol, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Bishopsworth,51.43065,-2.61376,Entire home/apt,2.0,1.5,1.5 baths,1.0,1.0,5.0,1125.0,5.0,1125.0,0.0,323.0,32.0,f,1.0,0.0
+2024-03-02,,,,100%,f,1.0,t,f,Westbury-on-Trym & Henleaze,51.48151,-2.61716,Entire home/apt,4.0,1.0,1 bath,0.0,2.0,1.0,1125.0,1.0,1125.0,29.0,364.0,0.0,t,1.0,0.0
+2014-02-17,United Kingdom,within an hour,100%,98%,t,1.0,t,t,Clifton Down,51.46669,-2.61031,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,1125.0,2.0,1125.0,6.0,93.0,452.87,f,1.0,0.0
+2015-02-04,"England, United Kingdom",within an hour,100%,73%,t,2.0,t,t,Westbury-on-Trym & Henleaze,51.47804,-2.61456,Entire home/apt,6.0,2.5,2.5 baths,3.0,3.0,2.0,1125.0,2.0,1125.0,23.0,340.0,48.0,f,2.0,0.0
+2014-06-21,"England, United Kingdom",within an hour,100%,86%,t,1.0,t,t,Southville,51.44497299194336,-2.6088380813598637,Entire home/apt,1.0,1.0,1 bath,1.0,1.0,3.0,10.0,3.0,10.0,2.0,74.0,140.0,f,1.0,0.0
+2021-06-29,,within an hour,100%,86%,t,1.0,t,f,Knowle,51.43341064929706,-2.564675952897719,Private room,2.0,1.0,1 shared bath,1.0,1.0,1.0,1125.0,1.0,1125.0,27.0,165.0,29.0,f,1.0,1.0
+2017-10-11,,within an hour,100%,96%,f,39.0,t,t,Cotham,51.464372912078495,-2.604598749665884,Entire home/apt,6.0,1.0,1 bath,2.0,3.0,15.0,365.0,15.0,365.0,0.0,0.0,0.0,f,25.0,0.0
+2014-03-09,"Bristol, United Kingdom",,,0%,f,1.0,t,f,Ashley,51.4743355662487,-2.5872883200645447,Entire home/apt,10.0,2.5,2.5 baths,5.0,6.0,5.0,365.0,5.0,365.0,30.0,365.0,0.0,f,1.0,0.0
+2013-03-15,"Bristol, United Kingdom",within an hour,100%,89%,t,3.0,t,t,Hotwells & Harbourside,51.45535,-2.60573,Private room,2.0,1.5,1.5 baths,1.0,1.0,1.0,1125.0,1.0,365.0,16.0,82.0,86.0,t,3.0,2.0
+2017-04-13,"Bristol, United Kingdom",within an hour,99%,97%,f,100.0,t,t,Central,51.45968,-2.60296,Entire home/apt,3.0,1.0,1 bath,1.0,2.0,2.0,365.0,2.0,365.0,25.0,349.0,22.0,f,67.0,0.0
+2023-01-22,"Bristol, United Kingdom",within an hour,100%,91%,t,1.0,t,t,Ashley,51.4731,-2.59093,Private room,1.0,1.0,1 private bath,1.0,1.0,1.0,365.0,1.0,365.0,14.0,240.0,25.0,f,1.0,1.0
+2023-04-09,"Nottingham, United Kingdom",within an hour,100%,99%,t,2.0,t,t,Central,51.4525212,-2.5925639,Entire home/apt,6.0,1.5,1.5 baths,2.0,4.0,2.0,365.0,2.0,1125.0,11.0,243.0,53.0,f,1.0,0.0
+2014-12-21,"Bristol, United Kingdom",within an hour,100%,100%,t,5.0,t,t,Avonmouth & Lawrence Weston,51.4955897004164,-2.650350071489811,Private room,2.0,1.0,1 shared bath,1.0,1.0,1.0,365.0,1.0,365.0,30.0,365.0,4.0,f,4.0,4.0
+2016-12-04,"Bristol, United Kingdom",within an hour,100%,93%,f,1.0,t,f,Southville,51.4436151026186,-2.608856898796667,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,3.0,1.0,3.0,14.0,302.0,15.0,f,1.0,1.0
+2015-07-30,"Bristol, United Kingdom",within an hour,100%,98%,t,2.0,t,t,Bishopston & Ashley Down,51.47883,-2.58503,Private room,1.0,1.0,1 private bath,1.0,1.0,1.0,30.0,1.0,30.0,14.0,148.0,335.0,f,2.0,2.0
+2013-05-22,"Bristol, United Kingdom",within a day,100%,,f,1.0,t,t,Ashley,51.4738,-2.57572,Private room,1.0,1.0,1 shared bath,1.0,1.0,1.0,365.0,1.0,365.0,29.0,364.0,1.0,f,1.0,1.0
+2019-01-14,"Bristol, United Kingdom",within an hour,100%,100%,t,60.0,t,t,Lawrence Hill,51.45515,-2.57949,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,2.0,1125.0,2.0,2.0,25.0,258.0,14.0,t,47.0,0.0
+2016-08-04,"Bristol, United Kingdom",within an hour,100%,94%,t,1.0,t,t,Ashley,51.461414,-2.588201,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,1125.0,1.0,1125.0,0.0,279.0,11.0,t,1.0,0.0
+2017-06-02,"Frampton Cotterell, United Kingdom",within an hour,100%,99%,f,52.0,t,t,Lawrence Hill,51.45297,-2.57648,Entire home/apt,5.0,1.5,1.5 baths,2.0,5.0,2.0,365.0,2.0,365.0,22.0,326.0,21.0,t,4.0,0.0
+2015-06-23,"London, United Kingdom",within an hour,100%,96%,f,8.0,t,t,Bishopston & Ashley Down,51.485157282650015,-2.586013586760511,Entire home/apt,6.0,1.0,1 bath,2.0,3.0,1.0,365.0,1.0,365.0,15.0,298.0,6.0,t,4.0,0.0
+2013-11-03,"Bristol, United Kingdom",within an hour,100%,92%,f,1.0,t,t,Clifton,51.45396,-2.61964,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,7.0,1.0,7.0,16.0,335.0,347.0,f,1.0,1.0
+2015-01-01,"Great Malvern, United Kingdom",within an hour,100%,99%,t,2.0,t,t,Southville,51.445,-2.60859,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,1.0,45.0,1.0,1125.0,13.0,24.0,71.0,f,1.0,0.0
+2020-07-10,,,,,f,12.0,t,t,Ashley,51.4615622,-2.5852812,Entire home/apt,6.0,2.0,2 baths,2.0,5.0,2.0,180.0,1.0,1125.0,21.0,319.0,126.0,f,9.0,0.0
+2023-11-10,,within an hour,100%,100%,f,1.0,f,t,Hartcliffe & Withywood,51.40604118143232,-2.6205937915362463,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,365.0,29.0,363.0,0.0,f,1.0,0.0
+2024-07-27,"Cardiff, United Kingdom",,,100%,f,13.0,t,t,Hartcliffe & Withywood,51.41107,-2.60837,Entire home/apt,10.0,1.5,1.5 baths,3.0,1.0,3.0,365.0,3.0,365.0,30.0,365.0,0.0,f,1.0,0.0
+2019-04-03,"England, United Kingdom",,,93%,f,2.0,t,f,Westbury-on-Trym & Henleaze,51.49046,-2.60308,Private room,3.0,1.0,1 private bath,1.0,2.0,1.0,7.0,1.0,1125.0,30.0,180.0,33.0,t,2.0,2.0
+2021-12-01,,within an hour,99%,97%,f,46.0,t,t,Central,51.46059,-2.60839,Entire home/apt,4.0,1.0,1 bath,1.0,3.0,1.0,365.0,1.0,999.0,29.0,361.0,19.0,f,30.0,0.0
+2019-01-14,"Bristol, United Kingdom",within an hour,100%,100%,t,60.0,t,t,Cotham,51.46755,-2.59634,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,2.0,1125.0,2.0,2.0,19.0,50.0,37.0,t,47.0,0.0
+2015-11-26,"West Stafford, United Kingdom",within an hour,100%,75%,f,1.0,t,t,Eastville,51.48011,-2.54183,Entire home/apt,3.0,1.0,1 bath,2.0,2.0,28.0,180.0,28.0,100.0,0.0,46.0,12.0,f,1.0,0.0
+2024-09-26,,within an hour,100%,100%,t,1.0,t,t,Easton,51.4644235090479,-2.5604897313062027,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,1125.0,2.0,1125.0,2.0,285.0,24.0,f,1.0,0.0
+2024-09-03,,within an hour,100%,98%,f,67.0,t,t,Southville,51.44124600468842,-2.599519419493127,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,365.0,2.0,365.0,26.0,361.0,0.0,t,13.0,0.0
+2023-06-14,"London, United Kingdom",,,100%,f,210.0,t,t,Ashley,51.46102,-2.58859,Private room,1.0,1.0,1 shared bath,1.0,1.0,3.0,365.0,3.0,365.0,27.0,142.0,43.0,t,7.0,2.0
+2017-05-04,"Bristol, United Kingdom",within an hour,100%,70%,f,1.0,t,t,Southville,51.44506,-2.61305,Private room,2.0,2.0,2 baths,1.0,1.0,1.0,7.0,1.0,7.0,9.0,126.0,6.0,f,1.0,1.0
+2017-08-11,"Bristol, United Kingdom",within an hour,100%,92%,f,37.0,t,t,Hotwells & Harbourside,51.4550102,-2.6041519,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,365.0,1.0,999.0,0.0,0.0,1.0,t,25.0,0.0
+2023-08-03,"Bristol, United Kingdom",within an hour,100%,87%,,25.0,t,t,Knowle,51.42991,-2.57744,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,7.0,365.0,7.0,365.0,29.0,314.0,0.0,f,18.0,0.0
+2016-02-03,"Bristol, United Kingdom",within a few hours,100%,99%,f,6.0,t,t,Eastville,51.47355,-2.55969,Private room,1.0,2.0,2 shared baths,5.0,1.0,5.0,1125.0,5.0,1125.0,24.0,84.0,54.0,f,6.0,6.0
+2018-02-27,"England, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Redland,51.47521,-2.60847,Private room,2.0,1.0,1 private bath,1.0,1.0,2.0,30.0,2.0,30.0,13.0,326.0,65.0,t,1.0,1.0
+2022-11-01,"Bristol, United Kingdom",within a few hours,100%,90%,f,8.0,t,t,Stoke Bishop,51.49188892844544,-2.6377747123782767,Private room,3.0,1.0,1 shared bath,1.0,2.0,1.0,365.0,1.0,1125.0,30.0,365.0,0.0,t,7.0,7.0
+2014-03-05,"Bristol, United Kingdom",within an hour,100%,94%,f,1.0,t,t,Cotham,51.46512,-2.60074,Private room,1.0,1.0,1 private bath,1.0,1.0,1.0,365.0,1.0,365.0,7.0,7.0,10.0,f,1.0,1.0
+2020-02-27,,a few days or more,0%,50%,f,2.0,t,t,Avonmouth & Lawrence Weston,51.49762,-2.6453,Entire home/apt,5.0,1.0,1 bath,3.0,8.0,6.0,90.0,6.0,90.0,30.0,180.0,1.0,f,1.0,0.0
+2013-05-14,"Bristol, United Kingdom",within an hour,100%,84%,t,3.0,t,t,Clifton,51.451714,-2.6209058,Private room,2.0,1.0,1 shared bath,1.0,2.0,7.0,180.0,7.0,180.0,16.0,98.0,102.0,f,2.0,1.0
+2022-01-18,,within an hour,100%,99%,t,9.0,t,t,Bedminster,51.44114,-2.6019,Private room,3.0,1.5,1.5 shared baths,1.0,2.0,1.0,365.0,1.0,365.0,20.0,290.0,15.0,t,9.0,5.0
+2014-08-04,"Bristol, United Kingdom",within a day,100%,75%,t,2.0,t,t,Clifton,51.45384184716168,-2.6205264836059494,Entire home/apt,2.0,1.0,1 bath,1.0,2.0,2.0,365.0,2.0,365.0,0.0,169.0,0.0,f,2.0,0.0
+2016-09-14,"Bristol, United Kingdom",,,,f,2.0,t,t,Lockleaze,51.48738479614258,-2.567135095596313,Private room,1.0,1.0,1 shared bath,1.0,1.0,30.0,33.0,30.0,33.0,29.0,89.0,22.0,f,2.0,1.0
+2023-08-03,"Bristol, United Kingdom",within an hour,100%,87%,,25.0,t,t,Eastville,51.47387363687787,-2.547126026062304,Entire home/apt,9.0,1.0,1 bath,4.0,5.0,4.0,1125.0,2.0,1125.0,26.0,86.0,3.0,f,18.0,0.0
+2016-11-02,"Bristol, United Kingdom",within a few hours,100%,70%,f,1.0,t,t,Filwood,51.43131,-2.59844,Private room,1.0,1.5,1.5 shared baths,1.0,1.0,1.0,5.0,1.0,5.0,1.0,14.0,29.0,f,1.0,1.0
+2019-01-14,"Bristol, United Kingdom",within an hour,100%,100%,t,60.0,t,t,Ashley,51.46706,-2.57774,Entire home/apt,6.0,1.0,1 bath,2.0,3.0,1.0,1125.0,1.0,1.0,9.0,303.0,126.0,t,47.0,0.0
+2020-07-10,,,,,f,12.0,t,t,Ashley,51.461563,-2.585281,Entire home/apt,6.0,1.0,1 bath,2.0,4.0,2.0,90.0,2.0,1125.0,13.0,336.0,172.0,f,9.0,0.0
+2016-04-03,"Bristol, United Kingdom",within an hour,80%,96%,f,6.0,t,t,Lockleaze,51.49579,-2.5678,Private room,2.0,1.5,1.5 shared baths,1.0,1.0,1.0,365.0,1.0,1125.0,30.0,365.0,0.0,t,5.0,5.0
+2022-11-01,"Bristol, United Kingdom",within a few hours,100%,90%,f,8.0,t,t,Westbury-on-Trym & Henleaze,51.49261929843973,-2.636621147213177,Private room,1.0,1.0,1 shared bath,1.0,1.0,1.0,365.0,1.0,1125.0,30.0,365.0,0.0,t,7.0,7.0
+2015-08-10,"Bristol, United Kingdom",within a day,100%,85%,t,2.0,t,t,St George Troopers Hill,51.45238,-2.53266,Private room,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,365.0,0.0,21.0,16.0,f,2.0,2.0
+2017-10-11,,within an hour,100%,96%,f,39.0,t,t,Ashley,51.46118,-2.58711,Entire home/apt,6.0,1.0,1 bath,2.0,4.0,15.0,365.0,15.0,365.0,30.0,365.0,0.0,f,25.0,0.0
+2017-01-12,"Winterbourne, United Kingdom",,,100%,f,1.0,t,t,St George West,51.46145675175016,-2.5394022480790706,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,3.0,365.0,3.0,365.0,10.0,10.0,1.0,f,1.0,0.0
+2023-12-11,"Bristol, United Kingdom",within an hour,100%,100%,t,3.0,t,t,Redland,51.47042206144404,-2.599665897230065,Entire home/apt,6.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,1125.0,11.0,268.0,17.0,t,3.0,0.0
+2015-01-04,"Bristol, United Kingdom",within an hour,100%,100%,f,1.0,t,f,Ashley,51.47107,-2.58782,Entire home/apt,8.0,1.0,1 bath,4.0,9.0,2.0,10.0,2.0,10.0,0.0,4.0,12.0,f,1.0,0.0
+2022-01-18,,within an hour,100%,99%,t,9.0,t,t,Southville,51.44227,-2.60273,Entire home/apt,6.0,1.0,1 bath,2.0,2.0,1.0,365.0,1.0,365.0,20.0,302.0,23.0,t,9.0,5.0
+2017-10-01,"Leeds, United Kingdom",within an hour,100%,100%,f,194.0,t,t,Lawrence Hill,51.45669,-2.57718,Entire home/apt,6.0,1.0,1 bath,2.0,4.0,2.0,365.0,2.0,365.0,0.0,153.0,0.0,t,22.0,0.0
+2016-04-01,"Newbury, United Kingdom",within a few hours,100%,66%,t,136.0,t,t,Central,51.452215736716944,-2.585266772932852,Entire home/apt,4.0,2.0,2 baths,2.0,2.0,7.0,365.0,7.0,365.0,29.0,179.0,0.0,f,2.0,0.0
+2011-04-05,"Bristol, United Kingdom",within a few hours,100%,67%,f,1.0,t,t,Eastville,51.47974765096258,-2.540992861536458,Entire home/apt,5.0,2.0,2 baths,4.0,4.0,3.0,14.0,3.0,14.0,0.0,29.0,1.0,f,1.0,0.0
+2022-01-08,"Bristol, United Kingdom",within an hour,100%,95%,t,20.0,t,t,Southville,51.4417265,-2.5978257,Entire home/apt,10.0,1.0,1 bath,5.0,5.0,7.0,999.0,2.0,999.0,26.0,361.0,0.0,t,13.0,0.0
+2025-02-08,,within an hour,100%,67%,f,1.0,f,t,Central,51.4509030603941,-2.590447042255511,Private room,1.0,1.0,1 shared bath,2.0,1.0,1.0,7.0,1.0,7.0,17.0,352.0,0.0,f,1.0,1.0
+2016-10-25,"Bristol, United Kingdom",within an hour,91%,99%,f,5.0,t,t,Ashley,51.46457,-2.58564,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,365.0,24.0,263.0,12.0,f,5.0,2.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Lawrence Hill,51.4568807,-2.5816885,Entire home/apt,2.0,0.0,0 baths,,1.0,1.0,365.0,1.0,365.0,7.0,342.0,0.0,t,148.0,3.0
+2015-02-10,"Bristol, United Kingdom",within a few hours,100%,54%,f,1.0,t,t,Southville,51.44389,-2.60641,Private room,1.0,1.0,1 shared bath,1.0,1.0,10.0,730.0,10.0,730.0,0.0,138.0,11.0,f,1.0,1.0
+2016-05-02,"Bristol, United Kingdom",,,100%,f,1.0,t,t,Cotham,51.4687,-2.60635,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,10.0,2.0,10.0,7.0,38.0,0.0,f,1.0,0.0
+2017-05-15,"Bristol, United Kingdom",within an hour,100%,98%,t,2.0,t,t,St George West,51.46058,-2.54703,Private room,2.0,1.0,1 private bath,1.0,1.0,2.0,30.0,2.0,30.0,11.0,71.0,199.0,f,2.0,1.0
+2017-04-13,"Bristol, United Kingdom",within an hour,99%,97%,f,100.0,t,t,Clifton,51.45712,-2.60963,Entire home/apt,2.0,1.0,1 bath,1.0,2.0,1.0,1125.0,1.0,1125.0,13.0,348.0,3.0,f,67.0,0.0
+2014-02-09,"Bristol, United Kingdom",within an hour,100%,100%,f,1.0,t,t,Henbury & Brentry,51.5,-2.64046,Private room,1.0,1.5,1.5 shared baths,1.0,1.0,1.0,10.0,1.0,10.0,18.0,58.0,75.0,f,1.0,1.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Lawrence Hill,51.4576089,-2.5778612,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,1.0,365.0,1.0,365.0,5.0,321.0,4.0,t,148.0,3.0
+2013-01-07,"Bristol, United Kingdom",within a few hours,100%,94%,t,1.0,t,t,Eastville,51.4714,-2.55036,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,1125.0,2.0,1125.0,17.0,94.0,20.0,f,1.0,0.0
+2017-12-30,"Bristol, United Kingdom",within an hour,100%,97%,t,27.0,t,t,Lawrence Hill,51.45733,-2.58201,Entire home/apt,4.0,1.0,1 bath,2.0,3.0,2.0,1125.0,2.0,1125.0,21.0,118.0,25.0,f,21.0,0.0
+2020-07-10,,,,,f,12.0,t,t,Ashley,51.46106,-2.5855,Entire home/apt,9.0,1.5,1.5 baths,3.0,9.0,2.0,90.0,1.0,1125.0,13.0,316.0,120.0,f,9.0,0.0
+2023-03-29,,within an hour,100%,100%,f,1.0,t,t,Windmill Hill,51.43398,-2.59756,Entire home/apt,8.0,3.0,3 baths,3.0,7.0,2.0,28.0,2.0,1125.0,24.0,309.0,23.0,f,1.0,0.0
+2019-10-04,"Bristol, United Kingdom",within an hour,100%,90%,,6.0,t,t,Southmead,51.5,-2.60452,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,14.0,90.0,4.0,1125.0,22.0,35.0,49.0,f,2.0,0.0
+2016-08-15,"Bristol, United Kingdom",within an hour,100%,99%,t,2.0,t,t,Clifton,51.45149,-2.61143,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,365.0,1.0,365.0,5.0,25.0,54.0,f,2.0,2.0
+2014-07-28,"Bristol, United Kingdom",within an hour,100%,92%,t,1.0,t,t,Clifton Down,51.46905,-2.61002,Private room,2.0,1.0,1 shared bath,1.0,1.0,1.0,2.0,1.0,2.0,19.0,319.0,261.0,f,1.0,1.0
+2019-01-14,"Bristol, United Kingdom",within an hour,100%,100%,t,60.0,t,t,Hotwells & Harbourside,51.4520823,-2.603859,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,2.0,1125.0,2.0,2.0,4.0,28.0,0.0,t,47.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Clifton Down,51.460106,-2.611192,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,365.0,1.0,365.0,15.0,342.0,217.0,f,148.0,3.0
+2014-12-29,"Bristol, United Kingdom",,,0%,f,1.0,t,f,Redland,51.48126,-2.60414,Entire home/apt,6.0,3.0,3 baths,4.0,5.0,3.0,16.0,3.0,16.0,25.0,263.0,1.0,f,1.0,0.0
+2013-03-21,"Bristol, United Kingdom",within an hour,100%,99%,f,14.0,t,t,Hotwells & Harbourside,51.45504437525437,-2.6068600995498152,Entire home/apt,2.0,0.0,0 baths,0.0,1.0,28.0,365.0,28.0,1125.0,10.0,262.0,1.0,t,11.0,7.0
+2015-06-20,"Bristol, United Kingdom",within a day,100%,84%,t,2.0,t,t,Central,51.45355081477162,-2.596452757716179,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,365.0,2.0,365.0,0.0,41.0,7.0,f,2.0,0.0
+2014-02-24,"England, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Bishopston & Ashley Down,51.48405,-2.58311,Entire home/apt,2.0,1.0,1 bath,0.0,1.0,2.0,7.0,2.0,1125.0,2.0,6.0,275.0,t,1.0,0.0
+2017-04-13,"Bristol, United Kingdom",within an hour,99%,97%,f,100.0,t,t,Hotwells & Harbourside,51.44746,-2.60079,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,365.0,28.0,363.0,8.0,f,67.0,0.0
+2018-02-15,"England, United Kingdom",,,,f,1.0,t,t,Avonmouth & Lawrence Weston,51.49648,-2.69233,Private room,2.0,1.0,1 shared bath,1.0,1.0,1.0,1125.0,1.0,1125.0,0.0,76.0,73.0,t,1.0,1.0
+2024-12-15,,within an hour,100%,99%,f,27.0,t,t,Clifton,51.45705764057263,-2.613250754718416,Entire home/apt,5.0,1.0,1 bath,2.0,4.0,2.0,365.0,2.0,365.0,23.0,358.0,0.0,t,4.0,0.0
+2024-01-27,,within an hour,100%,100%,t,1.0,t,t,Clifton,51.45463,-2.62003,Entire home/apt,4.0,1.5,1.5 baths,2.0,2.0,2.0,365.0,1.0,365.0,16.0,106.0,64.0,f,1.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Central,51.4557,-2.59939,Entire home/apt,2.0,1.0,1 bath,0.0,1.0,1.0,365.0,1.0,365.0,7.0,319.0,71.0,f,148.0,3.0
+2013-08-26,"Bristol, United Kingdom",within a few hours,100%,0%,f,2.0,t,t,Knowle,51.437267646652415,-2.567651961387305,Entire home/apt,2.0,1.5,1.5 baths,1.0,1.0,1.0,365.0,1.0,365.0,30.0,255.0,0.0,t,2.0,1.0
+2021-06-06,,within an hour,90%,100%,t,1.0,t,t,Central,51.46161,-2.60642,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,2.0,1125.0,1.0,365.0,12.0,335.0,186.0,t,1.0,0.0
+2013-02-24,"London, United Kingdom",within an hour,67%,20%,f,1.0,t,t,Bishopston & Ashley Down,51.48278,-2.5904,Entire home/apt,5.0,2.5,2.5 baths,3.0,2.0,3.0,1125.0,3.0,1125.0,5.0,169.0,6.0,f,1.0,0.0
+2011-06-01,"Bristol, United Kingdom",within a day,100%,58%,f,2.0,t,t,Clifton Down,51.46566,-2.60942,Private room,1.0,1.0,1 private bath,1.0,1.0,5.0,1125.0,5.0,1125.0,25.0,38.0,33.0,f,2.0,2.0
+2015-10-04,"London, United Kingdom",within a few hours,100%,67%,t,1.0,t,t,Stoke Bishop,51.47201,-2.6297,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,13.0,730.0,10.0,730.0,29.0,310.0,3.0,f,1.0,0.0
+2012-08-02,"Bristol, United Kingdom",within a few hours,100%,100%,t,4.0,t,t,Filwood,51.42999,-2.59981,Entire home/apt,5.0,1.0,1 bath,3.0,3.0,2.0,28.0,2.0,1125.0,11.0,39.0,169.0,f,1.0,0.0
+2017-04-13,"Bristol, United Kingdom",within an hour,99%,97%,f,100.0,t,t,Clifton,51.45522,-2.6099,Entire home/apt,6.0,1.0,1 bath,2.0,5.0,1.0,1125.0,1.0,1125.0,24.0,345.0,20.0,f,67.0,0.0
+2013-10-13,"Bristol, United Kingdom",,,0%,f,1.0,t,t,Eastville,51.47329,-2.54399,Entire home/apt,5.0,1.0,1 bath,2.0,3.0,5.0,365.0,5.0,365.0,0.0,76.0,0.0,f,1.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Cotham,51.4690886,-2.6028726,Entire home/apt,2.0,2.0,2 baths,1.0,1.0,1.0,365.0,1.0,365.0,15.0,62.0,38.0,t,148.0,3.0
+2016-02-27,"Bristol, United Kingdom",within an hour,100%,84%,t,2.0,t,t,Southville,51.44382,-2.60765,Private room,1.0,1.5,1.5 shared baths,1.0,1.0,2.0,365.0,2.0,365.0,27.0,303.0,280.0,f,2.0,2.0
+2024-01-19,,a few days or more,0%,0%,f,1.0,f,t,Westbury-on-Trym & Henleaze,51.49159,-2.598,Private room,4.0,2.0,2 baths,2.0,4.0,1.0,365.0,1.0,365.0,29.0,267.0,1.0,f,1.0,1.0
+2022-12-03,,,,,f,1.0,t,t,Central,51.44632471702646,-2.59210791438818,Private room,4.0,1.0,1 shared bath,1.0,3.0,7.0,365.0,7.0,365.0,30.0,365.0,0.0,f,1.0,1.0
+2015-02-06,"Bristol, United Kingdom",within a few hours,100%,78%,t,4.0,t,t,Knowle,51.437449179783705,-2.5638258870278734,Private room,2.0,1.0,1 bath,1.0,1.0,1.0,70.0,1.0,70.0,23.0,313.0,1.0,f,4.0,3.0
+2023-08-03,"Bristol, United Kingdom",within an hour,100%,87%,,25.0,t,t,Clifton,51.45299765998743,-2.619139262087858,Entire home/apt,6.0,1.5,1.5 baths,2.0,4.0,7.0,365.0,7.0,1125.0,9.0,69.0,0.0,t,18.0,0.0
+2015-01-11,"Bristol, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Central,51.46156,-2.59412,Entire home/apt,4.0,2.5,2.5 baths,2.0,2.0,2.0,10.0,2.0,10.0,10.0,11.0,12.0,f,1.0,0.0
+2023-07-04,,,,96%,f,1.0,t,t,Bishopston & Ashley Down,51.48078,-2.59169,Entire home/apt,5.0,1.0,1 bath,3.0,3.0,2.0,1125.0,2.0,365.0,0.0,78.0,61.0,t,1.0,0.0
+2017-12-30,"Bristol, United Kingdom",within an hour,100%,97%,t,27.0,t,t,Cotham,51.46797,-2.59256,Entire home/apt,4.0,3.0,3 baths,4.0,5.0,3.0,1125.0,4.0,1125.0,20.0,106.0,23.0,f,21.0,0.0
+2025-01-11,,,,,f,1.0,f,t,St George Troopers Hill,51.45211010599044,-2.532716827831246,Entire home/apt,9.0,2.5,2.5 baths,4.0,7.0,1.0,365.0,1.0,365.0,21.0,305.0,6.0,t,1.0,0.0
+2018-01-16,"Bristol, United Kingdom",a few days or more,0%,40%,f,6.0,t,t,Horfield,51.49025,-2.58421,Private room,1.0,1.0,1 private bath,1.0,1.0,2.0,1125.0,2.0,1125.0,17.0,322.0,5.0,f,6.0,6.0
+2022-03-05,,within a day,50%,27%,f,2.0,t,t,Ashley,51.4644296,-2.5852419,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,1.0,20.0,1.0,20.0,23.0,348.0,8.0,f,2.0,1.0
+2016-10-25,"Bristol, United Kingdom",within an hour,91%,99%,f,5.0,t,t,Ashley,51.46503,-2.58742,Private room,4.0,1.0,1 shared bath,1.0,2.0,1.0,365.0,1.0,1125.0,27.0,349.0,120.0,t,5.0,2.0
+2023-07-16,"Bristol, United Kingdom",,,100%,f,1.0,t,f,Brislington East,51.43908,-2.53046,Entire home/apt,5.0,1.0,1 bath,3.0,2.0,7.0,365.0,7.0,365.0,0.0,20.0,1.0,f,1.0,0.0
+2017-08-08,"England, United Kingdom",within an hour,100%,75%,f,1.0,t,t,Clifton,51.4591084,-2.6209748,Entire home/apt,3.0,1.0,1 bath,1.0,1.0,21.0,60.0,21.0,60.0,3.0,67.0,4.0,f,1.0,0.0
+2014-06-03,"Bristol, United Kingdom",within a day,100%,92%,t,1.0,t,t,Southville,51.44116,-2.61373,Private room,2.0,1.0,1 private bath,1.0,1.0,2.0,730.0,1.0,730.0,0.0,23.0,11.0,f,1.0,1.0
+2013-05-18,"Bristol, United Kingdom",within a few hours,90%,47%,f,2.0,t,t,Knowle,51.43807,-2.5661,Private room,1.0,1.0,1 shared bath,1.0,1.0,2.0,90.0,2.0,90.0,0.0,243.0,22.0,f,2.0,2.0
+2016-07-14,"England, United Kingdom",within an hour,100%,100%,t,5.0,t,t,Horfield,51.49052,-2.58744,Private room,2.0,1.5,1.5 shared baths,1.0,1.0,1.0,1125.0,1.0,1125.0,0.0,149.0,70.0,t,5.0,4.0
+2017-04-13,"Bristol, United Kingdom",within an hour,99%,97%,f,100.0,t,t,Central,51.44856,-2.59441,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,2.0,365.0,2.0,365.0,11.0,276.0,55.0,f,67.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Clifton Down,51.4633429,-2.6099563,Entire home/apt,2.0,1.0,1 bath,0.0,1.0,1.0,365.0,1.0,365.0,23.0,349.0,36.0,f,148.0,3.0
+2014-12-11,"Bristol, United Kingdom",within an hour,100%,100%,f,1.0,t,t,St George West,51.45799,-2.54768,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,30.0,1125.0,30.0,1125.0,0.0,112.0,29.0,f,1.0,0.0
+2025-03-08,,within an hour,93%,78%,f,2.0,t,t,Central,51.4617383,-2.5906882,Entire home/apt,6.0,1.0,1 bath,2.0,0.0,1.0,365.0,1.0,365.0,23.0,343.0,0.0,t,1.0,0.0
+2013-06-16,"Bristol, United Kingdom",within an hour,97%,98%,f,3.0,t,t,Cotham,51.46431,-2.592004,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,90.0,2.0,1125.0,8.0,96.0,91.0,t,1.0,0.0
+2015-09-03,"Bristol, United Kingdom",,,,f,1.0,t,t,Lawrence Hill,51.4607287,-2.5644916,Private room,2.0,1.0,1 shared bath,1.0,1.0,2.0,3.0,2.0,3.0,30.0,365.0,0.0,f,1.0,1.0
+2013-09-16,"Bristol, United Kingdom",within an hour,100%,93%,t,1.0,t,t,Ashley,51.46072,-2.58549,Entire home/apt,4.0,2.0,2 baths,2.0,2.0,1.0,14.0,1.0,14.0,6.0,109.0,55.0,f,1.0,0.0
+2017-09-07,"Pembrokeshire, United Kingdom",within an hour,100%,99%,f,9.0,t,t,Cotham,51.46157,-2.60154,Private room,5.0,1.5,1.5 baths,1.0,2.0,2.0,90.0,2.0,90.0,28.0,266.0,2.0,f,4.0,4.0
+2015-08-09,"Bristol, United Kingdom",within a day,100%,88%,t,1.0,t,t,Clifton,51.4564,-2.61696,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,7.0,1125.0,7.0,1125.0,0.0,98.0,126.0,f,1.0,0.0
+2017-11-05,"Bristol, United Kingdom",within a few hours,90%,59%,f,3.0,t,t,Stoke Bishop,51.4734968,-2.6267588,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,3.0,365.0,3.0,365.0,0.0,90.0,4.0,f,3.0,0.0
+2016-03-30,"Bristol, United Kingdom",within an hour,100%,97%,f,1.0,t,t,Bishopsworth,51.42092650918007,-2.631160542368889,Entire home/apt,4.0,3.0,3 baths,2.0,2.0,1.0,365.0,1.0,365.0,0.0,2.0,15.0,t,1.0,0.0
+2017-04-13,"Bristol, United Kingdom",within an hour,99%,97%,f,100.0,t,t,Central,51.45988440224389,-2.607207128522304,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,2.0,365.0,22.0,352.0,9.0,t,67.0,0.0
+2014-07-30,"Bristol, United Kingdom",within an hour,100%,99%,f,4.0,t,t,Central,51.45611153532831,-2.5979279343933115,Entire home/apt,4.0,1.0,1 bath,1.0,1.0,2.0,365.0,2.0,1125.0,13.0,22.0,44.0,t,3.0,0.0
+2017-04-26,"Bristol, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Redland,51.47493,-2.59932,Entire home/apt,8.0,2.5,2.5 baths,4.0,5.0,2.0,80.0,2.0,1125.0,1.0,82.0,147.0,f,1.0,0.0
+2016-06-02,"England, United Kingdom",within a few hours,100%,100%,t,1.0,t,t,Easton,51.4653772410337,-2.5624832873107883,Private room,2.0,0.5,Half-bath,1.0,1.0,1.0,40.0,1.0,40.0,12.0,312.0,22.0,f,1.0,1.0
+2015-06-01,"Bristol, United Kingdom",within an hour,100%,60%,f,3.0,t,t,Bishopsworth,51.41711,-2.61881,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,3.0,60.0,3.0,60.0,30.0,180.0,23.0,f,3.0,0.0
+2019-07-05,"Bristol, United Kingdom",within an hour,100%,90%,f,1.0,t,t,Cotham,51.4641260278077,-2.590679154353684,Entire home/apt,6.0,2.5,2.5 baths,3.0,3.0,2.0,30.0,2.0,30.0,20.0,134.0,8.0,f,1.0,0.0
+2022-06-30,,within an hour,100%,100%,f,54.0,t,t,Central,51.45476,-2.59472,Entire home/apt,2.0,1.0,1 bath,0.0,1.0,1.0,365.0,2.0,99.0,29.0,269.0,2.0,t,32.0,0.0
+2012-05-10,"Bristol, United Kingdom",,,67%,f,1.0,t,f,Redland,51.47584,-2.60798,Entire home/apt,8.0,2.5,2.5 baths,5.0,6.0,4.0,35.0,4.0,35.0,6.0,44.0,8.0,f,1.0,0.0
+2024-02-22,"Bristol, United Kingdom",within an hour,100%,96%,f,4.0,t,t,Brislington East,51.45461,-2.54295,Entire home/apt,5.0,1.5,1.5 baths,3.0,4.0,1.0,365.0,3.0,365.0,14.0,342.0,3.0,t,4.0,0.0
+2022-02-23,,within an hour,100%,100%,f,1.0,t,t,Bishopsworth,51.4233627319336,-2.618669033050537,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,3.0,365.0,3.0,365.0,30.0,180.0,30.0,f,1.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Clifton,51.45575760000001,-2.6116035,Entire home/apt,4.0,1.5,1.5 baths,1.0,2.0,1.0,365.0,1.0,365.0,30.0,363.0,27.0,t,148.0,3.0
+2016-07-12,,within an hour,100%,98%,t,2.0,t,t,Horfield,51.48854,-2.58758,Entire home/apt,10.0,2.5,2.5 baths,5.0,7.0,3.0,365.0,1.0,365.0,0.0,53.0,2.0,f,2.0,0.0
+2014-08-03,"London, United Kingdom",within an hour,100%,73%,f,9.0,t,t,Hillfields,51.46801,-2.52479,Entire home/apt,7.0,4.0,5 baths,5.0,5.0,5.0,365.0,5.0,365.0,0.0,313.0,22.0,f,6.0,0.0
+2015-03-14,"Bristol, United Kingdom",within an hour,100%,78%,f,3.0,t,t,Eastville,51.47772,-2.54246,Private room,1.0,1.0,1 shared bath,1.0,1.0,2.0,14.0,2.0,1125.0,30.0,39.0,50.0,t,3.0,3.0
+2017-10-11,,within an hour,100%,96%,f,39.0,t,t,Clifton Down,51.46596,-2.61469,Entire home/apt,6.0,1.0,1 bath,2.0,3.0,15.0,1125.0,15.0,1125.0,0.0,0.0,2.0,f,25.0,0.0
+2015-02-14,"Bristol, United Kingdom",,,,f,1.0,t,t,Horfield,51.5,-2.59124,Entire home/apt,1.0,1.5,1.5 baths,3.0,5.0,2.0,14.0,2.0,1125.0,30.0,90.0,3.0,t,1.0,0.0
+2020-07-10,,,,,f,12.0,t,t,Ashley,51.46133,-2.58417,Entire home/apt,6.0,1.0,1 bath,2.0,6.0,2.0,90.0,2.0,1125.0,28.0,358.0,185.0,f,9.0,0.0
+2017-04-13,"Bristol, United Kingdom",within an hour,99%,97%,f,100.0,t,t,Lawrence Hill,51.44693,-2.57486,Entire home/apt,2.0,1.0,1 bath,1.0,3.0,1.0,1125.0,2.0,1125.0,21.0,347.0,19.0,f,67.0,0.0
+2021-07-23,,within an hour,100%,100%,t,1.0,f,f,Ashley,51.46677,-2.5856,Private room,2.0,1.0,1 bath,1.0,1.0,1.0,5.0,1.0,5.0,10.0,10.0,54.0,f,1.0,1.0
+2017-08-08,"Bristol, United Kingdom",within an hour,100%,98%,t,1.0,t,t,St George West,51.45864,-2.54423,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,7.0,1.0,7.0,16.0,73.0,416.0,f,1.0,1.0
+2015-12-29,"Bristol, United Kingdom",within an hour,100%,100%,t,2.0,t,t,Avonmouth & Lawrence Weston,51.48375,-2.67431,Entire home/apt,1.0,1.0,1 bath,1.0,1.0,28.0,730.0,12.0,1125.0,0.0,57.0,35.0,f,2.0,1.0
+2018-08-18,"Bristol, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Clifton Down,51.46291,-2.61299,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,3.0,265.0,3.0,265.0,0.0,196.0,339.0,f,1.0,0.0
+2024-03-29,,within an hour,100%,85%,f,11.0,f,t,Lawrence Hill,51.45732366684042,-2.580900077763108,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,20.0,365.0,20.0,365.0,30.0,90.0,0.0,t,1.0,0.0
+2015-12-18,"Bristol, United Kingdom",within an hour,100%,97%,f,33.0,t,t,Redland,51.47589,-2.61119,Entire home/apt,4.0,2.0,2 baths,2.0,6.0,7.0,365.0,3.0,365.0,0.0,21.0,3.0,t,26.0,0.0
+2023-10-30,,within an hour,100%,100%,,2.0,t,t,Central,51.45324,-2.59622,Entire home/apt,4.0,2.0,2 baths,2.0,2.0,1.0,365.0,1.0,365.0,15.0,79.0,7.0,t,1.0,0.0
+2018-10-14,"England, United Kingdom",,,,f,1.0,t,t,Windmill Hill,51.44040496767316,-2.5770468326441227,Entire home/apt,6.0,1.0,1 bath,2.0,3.0,1.0,90.0,1.0,90.0,0.0,6.0,0.0,f,1.0,0.0
+2023-03-25,"Chippenham, United Kingdom",within an hour,100%,99%,f,11.0,t,t,Ashley,51.46189,-2.58404,Entire home/apt,5.0,1.0,1 bath,2.0,4.0,1.0,365.0,2.0,365.0,30.0,270.0,9.0,t,2.0,0.0
+2017-02-15,"Bristol, United Kingdom",within an hour,100%,64%,f,3.0,t,t,Knowle,51.43436,-2.57755,Private room,1.0,1.0,1 private bath,5.0,1.0,2.0,5.0,2.0,5.0,30.0,90.0,0.0,f,3.0,1.0
+2014-06-30,"Bristol, United Kingdom",within a day,80%,73%,t,1.0,t,t,Knowle,51.43632579166261,-2.5749402034290707,Private room,2.0,1.0,1 private bath,1.0,2.0,2.0,14.0,1.0,14.0,0.0,47.0,7.0,f,1.0,1.0
+2018-08-20,"Bristol, United Kingdom",,,,f,1.0,t,t,Henbury & Brentry,51.5,-2.5930562,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,25.0,1.0,1125.0,26.0,361.0,3.0,t,1.0,1.0
+2014-08-03,"London, United Kingdom",within an hour,100%,73%,f,9.0,t,t,Clifton Down,51.45808,-2.61149,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,2.0,365.0,2.0,365.0,21.0,356.0,17.0,f,6.0,0.0
+2016-03-28,"Bristol, United Kingdom",,,73%,f,2.0,t,t,Henbury & Brentry,51.5,-2.61916,Private room,1.0,1.0,1 shared bath,1.0,1.0,1.0,1125.0,1.0,1125.0,17.0,352.0,18.0,t,2.0,2.0
+2017-04-21,"Bristol, United Kingdom",within a day,100%,91%,t,4.0,t,t,Central,51.46104,-2.59364,Entire home/apt,2.0,1.5,1.5 baths,1.0,0.0,4.0,60.0,4.0,60.0,28.0,355.0,47.0,f,2.0,0.0
+2021-12-01,,within an hour,99%,97%,f,46.0,t,t,Clifton,51.45412,-2.61938,Entire home/apt,2.0,1.0,1 bath,0.0,1.0,1.0,365.0,1.0,999.0,30.0,365.0,91.0,f,30.0,0.0
+2014-02-02,"Bristol, United Kingdom",within an hour,100%,99%,t,2.0,t,t,Knowle,51.42945,-2.56371,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,2.0,35.0,2.0,1125.0,11.0,329.0,452.87,f,2.0,0.0
+2017-10-22,"Bristol, United Kingdom",within an hour,100%,94%,t,1.0,t,t,Bedminster,51.43727,-2.60452,Private room,1.0,1.0,1 shared bath,1.0,1.0,2.0,1125.0,2.0,1125.0,22.0,326.0,130.0,f,1.0,1.0
+2015-06-14,"London, United Kingdom",within an hour,100%,100%,f,3.0,t,t,Knowle,51.4370356,-2.5722554,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,3.0,365.0,3.0,365.0,5.0,280.0,18.0,f,1.0,0.0
+2019-01-14,"Bristol, United Kingdom",within an hour,100%,100%,t,60.0,t,t,Lawrence Hill,51.45629,-2.57759,Entire home/apt,6.0,1.0,1 bath,2.0,3.0,1.0,1125.0,1.0,2.0,21.0,253.0,276.0,t,47.0,0.0
+2021-11-11,"London, United Kingdom",within a day,100%,50%,f,2.0,t,f,Hillfields,51.47423778395053,-2.535898118644816,Private room,2.0,2.0,2 baths,1.0,1.0,22.0,46.0,22.0,46.0,18.0,353.0,0.0,f,1.0,1.0
+2023-02-21,"Clifton, United Kingdom",within an hour,100%,99%,t,3.0,t,t,Clifton,51.45242,-2.62388,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,30.0,1.0,30.0,21.0,265.0,82.0,t,2.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Ashley,51.46060180664063,-2.589262008666992,Entire home/apt,2.0,2.0,2 baths,1.0,1.0,1.0,365.0,1.0,365.0,30.0,62.0,21.0,f,148.0,3.0
+2018-02-06,"Bristol, United Kingdom",,,100%,f,1.0,t,t,Easton,51.45773180033291,-2.556546336887382,Entire home/apt,4.0,1.0,1 bath,2.0,1.0,10.0,42.0,10.0,42.0,0.0,211.0,1.0,f,1.0,0.0
+2024-09-23,,within an hour,100%,91%,f,1.0,f,t,Ashley,51.4673544,-2.5827281,Entire home/apt,4.0,1.0,1 bath,2.0,3.0,1.0,365.0,1.0,365.0,21.0,119.0,4.0,f,1.0,0.0
+2015-06-03,"Bristol, United Kingdom",,,0%,f,1.0,t,f,St George Central,51.4633058,-2.52,Entire home/apt,2.0,1.0,1 bath,0.0,2.0,1.0,365.0,1.0,365.0,29.0,89.0,2.0,f,1.0,0.0
+2016-04-20,"Bristol, United Kingdom",within an hour,100%,76%,t,2.0,t,t,Clifton,51.451144,-2.6177281,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,7.0,1.0,7.0,15.0,49.0,81.0,f,2.0,0.0
+2022-08-24,,within an hour,100%,77%,t,2.0,t,t,Frome Vale,51.4817054881106,-2.528112083673477,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,1.0,90.0,1.0,90.0,26.0,359.0,60.0,f,2.0,0.0
+2017-03-26,"Bristol, United Kingdom",within a few hours,100%,83%,t,3.0,t,t,Cotham,51.46253,-2.60309,Private room,2.0,1.0,1 private bath,1.0,1.0,2.0,1125.0,2.0,1125.0,9.0,280.0,20.0,f,3.0,3.0
+2017-07-19,"England, United Kingdom",within a few hours,100%,100%,f,1.0,t,t,Ashley,51.4639304,-2.5873549,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,1125.0,2.0,1125.0,22.0,357.0,4.0,f,1.0,0.0
+2017-04-13,"Bristol, United Kingdom",within an hour,99%,97%,f,100.0,t,t,Clifton,51.46234054049773,-2.617390352700776,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,365.0,28.0,360.0,3.0,t,67.0,0.0
+2020-10-18,"Bristol, United Kingdom",within an hour,100%,96%,t,1.0,t,t,Lockleaze,51.48433,-2.5774,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,365.0,1.0,365.0,11.0,212.0,51.0,f,1.0,1.0
+2013-08-22,"Bristol, United Kingdom",within an hour,100%,96%,t,1.0,t,t,Clifton,51.4512424,-2.616867,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,60.0,2.0,60.0,3.0,56.0,78.0,f,1.0,0.0
+2019-11-20,,within an hour,94%,100%,f,210.0,t,t,Clifton,51.45051,-2.61144,Entire home/apt,4.0,2.0,2 baths,2.0,2.0,1.0,1125.0,1.0,1125.0,29.0,364.0,0.0,t,2.0,0.0
+2015-05-15,United Kingdom,within an hour,85%,100%,f,40.0,t,t,Frome Vale,51.48931349999999,-2.5408615,Entire home/apt,7.0,2.0,2 baths,4.0,4.0,1.0,365.0,1.0,365.0,29.0,360.0,3.0,t,1.0,0.0
+2025-01-19,"Bristol, United Kingdom",within an hour,100%,100%,f,3.0,t,t,Central,51.45413702053802,-2.5956675419513893,Entire home/apt,4.0,2.0,2 baths,2.0,2.0,1.0,365.0,1.0,365.0,19.0,112.0,0.0,t,3.0,0.0
+2023-06-14,,within an hour,100%,100%,t,1.0,t,t,Bishopston & Ashley Down,51.48139,-2.58747,Entire home/apt,8.0,3.5,3.5 baths,5.0,5.0,2.0,1125.0,1.0,365.0,7.0,329.0,63.0,f,1.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Cotham,51.4682256,-2.5924506,Entire home/apt,6.0,1.0,1 bath,2.0,3.0,1.0,365.0,1.0,365.0,11.0,330.0,8.0,t,148.0,3.0
+2022-11-30,,within an hour,100%,100%,f,14.0,t,t,Clifton,51.45624,-2.61062,Entire home/apt,6.0,1.0,1 bath,2.0,4.0,1.0,365.0,1.0,731.0,18.0,160.0,1.0,t,14.0,0.0
+2014-04-07,"London, United Kingdom",,,,f,1.0,t,t,Ashley,51.46989,-2.57971,Entire home/apt,5.0,3.0,3 baths,3.0,2.0,3.0,1125.0,3.0,1125.0,0.0,138.0,26.0,f,1.0,0.0
+2015-10-07,"Bristol, United Kingdom",,,,f,1.0,t,t,Brislington East,51.45494,-2.54445,Private room,1.0,1.0,1 shared bath,1.0,1.0,5.0,1125.0,5.0,1125.0,28.0,363.0,31.0,f,1.0,1.0
+2012-07-11,"Bristol, United Kingdom",within an hour,100%,100%,f,6.0,t,t,Cotham,51.46418279533516,-2.592986022216344,Entire home/apt,3.0,1.0,1 bath,1.0,1.0,3.0,100.0,3.0,1125.0,23.0,331.0,4.0,t,5.0,0.0
+2015-05-07,"Bristol, United Kingdom",within an hour,100%,100%,t,14.0,t,t,Central,51.45457,-2.59276,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,2.0,31.0,1.0,1125.0,12.0,300.0,218.0,f,11.0,5.0
+2022-08-24,,within an hour,100%,77%,t,2.0,t,t,Frome Vale,51.48167270808957,-2.528098002076149,Entire home/apt,6.0,1.0,1 bath,2.0,3.0,1.0,180.0,1.0,180.0,25.0,339.0,57.0,f,2.0,0.0
+2021-06-08,"Bristol, United Kingdom",within an hour,100%,100%,f,1.0,t,t,Ashley,51.46031,-2.58491,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,7.0,1.0,1125.0,10.0,10.0,33.0,f,1.0,1.0
+2016-02-06,"Bristol, United Kingdom",within a few hours,100%,94%,t,2.0,t,t,Lockleaze,51.48216,-2.57397,Entire home/apt,4.0,1.5,1.5 baths,2.0,3.0,2.0,14.0,2.0,14.0,0.0,57.0,3.0,f,2.0,1.0
+2024-09-09,,within an hour,100%,97%,f,2.0,f,t,Hillfields,51.47527582673606,-2.52,Private room,2.0,1.0,1 shared bath,1.0,1.0,1.0,14.0,1.0,14.0,26.0,44.0,30.0,f,2.0,1.0
+2014-02-23,,within a day,100%,49%,t,2.0,t,t,Clifton,51.45915,-2.62554,Private room,2.0,1.0,1 shared bath,1.0,,1.0,1125.0,1.0,1125.0,0.0,197.0,15.0,f,2.0,2.0
+2022-02-10,,within a few hours,100%,,f,1.0,t,t,Clifton,51.45124668305736,-2.622779669436931,Entire home/apt,6.0,2.0,2 baths,3.0,3.0,4.0,365.0,4.0,365.0,23.0,160.0,0.0,f,1.0,0.0
+2023-08-02,,within an hour,90%,98%,t,7.0,t,t,Eastville,51.47375353419304,-2.550550741277667,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,4.0,365.0,4.0,365.0,29.0,360.0,2.0,t,3.0,0.0
+2017-01-02,"Bristol, United Kingdom",a few days or more,0%,0%,f,2.0,t,t,Eastville,51.47823,-2.53993,Entire home/apt,6.0,2.5,2.5 baths,4.0,6.0,5.0,1125.0,5.0,1125.0,0.0,74.0,3.0,f,2.0,1.0
+2015-09-29,"Bristol, United Kingdom",within a day,100%,93%,f,5.0,t,t,Ashley,51.46738,-2.58057,Entire home/apt,2.0,1.0,1 bath,0.0,1.0,3.0,1125.0,3.0,1125.0,21.0,81.0,52.0,f,5.0,0.0
+2019-06-09,"Bristol, United Kingdom",within an hour,100%,100%,t,4.0,t,t,Hengrove & Whitchurch Park,51.41231,-2.56547,Entire home/apt,6.0,1.0,1 bath,3.0,3.0,2.0,14.0,2.0,1125.0,26.0,251.0,103.0,t,3.0,0.0
+2019-01-14,"Bristol, United Kingdom",within an hour,100%,100%,t,60.0,t,t,Southville,51.44266,-2.60762,Entire home/apt,4.0,1.0,1 bath,2.0,3.0,2.0,1125.0,2.0,2.0,15.0,70.0,63.0,t,47.0,0.0
+2022-03-10,,a few days or more,25%,100%,f,1.0,t,t,Lockleaze,51.47742787903416,-2.56248710034289,Private room,1.0,4.0,4 baths,1.0,1.0,1.0,365.0,1.0,365.0,30.0,364.0,2.0,f,1.0,1.0
+2023-06-13,,within an hour,100%,97%,t,5.0,t,f,Ashley,51.46626,-2.58313,Entire home/apt,10.0,2.0,2 baths,5.0,9.0,7.0,365.0,3.0,365.0,10.0,200.0,12.0,f,2.0,0.0
+2015-07-22,"Bristol, United Kingdom",within an hour,100%,100%,t,1.0,t,f,Westbury-on-Trym & Henleaze,51.48711,-2.6059,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,5.0,31.0,5.0,1125.0,17.0,108.0,286.0,f,1.0,0.0
+2019-10-22,"Bristol, United Kingdom",,,81%,t,3.0,t,t,Bishopsworth,51.42733,-2.60925,Private room,2.0,1.0,1 shared bath,1.0,1.0,4.0,45.0,4.0,45.0,30.0,365.0,24.0,f,3.0,3.0
+2021-11-01,,within an hour,100%,53%,f,1.0,f,t,Bedminster,51.43871069999999,-2.6115159,Entire home/apt,6.0,2.0,2 baths,3.0,4.0,2.0,365.0,2.0,365.0,6.0,20.0,7.0,f,1.0,0.0
+2017-04-13,"Bristol, United Kingdom",within an hour,99%,97%,f,100.0,t,t,Cotham,51.462,-2.60195,Entire home/apt,6.0,2.0,2 baths,2.0,3.0,1.0,1125.0,1.0,1125.0,0.0,288.0,10.0,f,67.0,0.0
+2019-01-14,"Bristol, United Kingdom",within an hour,100%,100%,t,60.0,t,t,Lawrence Hill,51.45823,-2.57775,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,1.0,1125.0,1.0,1125.0,24.0,354.0,184.0,t,47.0,0.0
+2013-03-21,"Bristol, United Kingdom",within an hour,100%,99%,f,14.0,t,t,Horfield,51.492380452432,-2.592206668904602,Private room,2.0,0.5,Shared half-bath,1.0,1.0,5.0,365.0,5.0,365.0,6.0,220.0,2.0,t,11.0,7.0
+2019-01-14,"Bristol, United Kingdom",within an hour,100%,100%,t,60.0,t,t,Southville,51.44349,-2.59043,Entire home/apt,4.0,2.0,2 baths,2.0,2.0,2.0,1125.0,2.0,2.0,24.0,124.0,423.0,t,47.0,0.0
+2015-07-02,,within an hour,100%,99%,t,1.0,t,t,Ashley,51.46904,-2.57532,Entire home/apt,6.0,2.0,2 baths,2.0,3.0,1.0,21.0,1.0,30.0,8.0,264.0,321.0,f,1.0,0.0
+2021-07-03,"Cheltenham, United Kingdom",within an hour,83%,100%,f,15.0,t,t,Hotwells & Harbourside,51.451256,-2.607805,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,28.0,2.0,1125.0,25.0,351.0,38.0,t,15.0,0.0
+2022-11-30,,within an hour,100%,100%,f,14.0,t,t,Clifton,51.45595,-2.6115,Entire home/apt,6.0,1.0,1 bath,2.0,4.0,1.0,365.0,1.0,731.0,15.0,170.0,18.0,t,14.0,0.0
+2014-01-08,"Bristol, United Kingdom",within an hour,100%,100%,f,1.0,t,t,Brislington West,51.44143,-2.55061,Entire home/apt,10.0,2.0,2 baths,5.0,5.0,2.0,14.0,2.0,14.0,0.0,12.0,27.0,f,1.0,0.0
+2022-09-02,,within an hour,100%,95%,f,26.0,t,t,Southville,51.44361,-2.60533,Entire home/apt,5.0,1.0,1 bath,3.0,3.0,2.0,180.0,2.0,1125.0,11.0,185.0,34.0,f,2.0,0.0
+2016-10-25,"Bristol, United Kingdom",within an hour,91%,99%,f,5.0,t,t,Ashley,51.46344,-2.58525,Entire home/apt,6.0,1.0,1 bath,2.0,3.0,1.0,30.0,1.0,1125.0,5.0,54.0,184.0,t,5.0,2.0
+2013-11-28,"Bristol, United Kingdom",within an hour,100%,100%,f,2.0,t,t,Clifton,51.45672,-2.6149,Entire home/apt,4.0,2.0,2 baths,2.0,2.0,3.0,1125.0,2.0,1125.0,17.0,64.0,27.0,f,1.0,0.0
+2017-09-07,"Pembrokeshire, United Kingdom",within an hour,100%,99%,f,9.0,t,t,Cotham,51.46223,-2.60083,Private room,2.0,1.0,1 private bath,1.0,1.0,2.0,90.0,2.0,90.0,0.0,318.0,64.0,f,4.0,4.0
+2017-04-13,"Bristol, United Kingdom",within an hour,99%,97%,f,100.0,t,t,Central,51.45908341216772,-2.6076031237952773,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,2.0,365.0,18.0,346.0,9.0,t,67.0,0.0
+2016-11-09,"London, United Kingdom",within a day,100%,75%,t,1.0,t,t,Ashley,51.46388131245152,-2.58935594973754,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,29.0,2.0,29.0,27.0,87.0,8.0,f,1.0,0.0
+2021-02-09,"England, United Kingdom",,,,f,1.0,t,t,Southmead,51.5,-2.595486156642437,Entire home/apt,7.0,2.0,2 baths,3.0,6.0,3.0,28.0,3.0,28.0,21.0,30.0,0.0,f,1.0,0.0
+2019-01-22,"Bristol, United Kingdom",within an hour,100%,75%,f,2.0,t,t,Avonmouth & Lawrence Weston,51.49295,-2.649,Private room,1.0,1.0,1 shared bath,1.0,1.0,3.0,30.0,3.0,30.0,18.0,78.0,72.0,f,2.0,2.0
+2016-10-27,"Bristol, United Kingdom",within an hour,100%,98%,t,1.0,t,t,Redland,51.4725,-2.60965,Entire home/apt,2.0,1.0,1 bath,1.0,2.0,2.0,1125.0,2.0,1125.0,11.0,261.0,195.0,f,1.0,0.0
+2014-09-14,"London, United Kingdom",,,0%,f,1.0,t,t,Easton,51.46712,-2.55438,Private room,1.0,1.0,1 shared bath,1.0,1.0,3.0,14.0,2.0,14.0,0.0,292.0,0.0,f,1.0,1.0
+2020-01-30,,within an hour,100%,99%,f,1.0,t,t,Easton,51.46465,-2.55713,Entire home/apt,5.0,1.0,1 bath,2.0,3.0,2.0,1125.0,1.0,365.0,6.0,330.0,159.0,t,1.0,0.0
+2016-08-16,"Bristol, United Kingdom",within a day,100%,98%,t,3.0,t,t,Westbury-on-Trym & Henleaze,51.48254,-2.60131,Private room,1.0,1.5,1.5 shared baths,1.0,1.0,3.0,7.0,3.0,7.0,16.0,76.0,110.0,f,2.0,2.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Lawrence Hill,51.4568807,-2.5816885,Entire home/apt,2.0,0.0,0 baths,,1.0,1.0,365.0,1.0,365.0,3.0,326.0,0.0,t,148.0,3.0
+2016-02-03,"Bristol, United Kingdom",within a few hours,100%,99%,f,6.0,t,t,Eastville,51.47364,-2.56017,Private room,1.0,2.0,2 shared baths,1.0,1.0,5.0,1125.0,5.0,1125.0,27.0,87.0,65.0,f,6.0,6.0
+2015-10-21,"Bristol, United Kingdom",within an hour,100%,97%,t,1.0,t,t,Southville,51.44264,-2.60369,Entire home/apt,2.0,1.0,1 bath,0.0,1.0,2.0,10.0,2.0,10.0,21.0,61.0,295.0,f,1.0,0.0
+2020-01-15,"England, United Kingdom",within an hour,100%,100%,f,2.0,t,t,Southville,51.44545,-2.59497,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,2.0,90.0,2.0,1125.0,14.0,178.0,66.0,f,2.0,0.0
+2013-05-12,"Bristol, United Kingdom",,,,f,1.0,t,t,Clifton,51.45347,-2.61703,Private room,1.0,1.0,1 bath,1.0,1.0,2.0,2.0,2.0,2.0,30.0,90.0,11.0,f,1.0,1.0
+2015-09-21,"London, United Kingdom",within an hour,100%,98%,t,11.0,t,t,Bedminster,51.435315164715554,-2.608778178691864,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,365.0,23.0,88.0,5.0,t,4.0,1.0
+2018-06-10,"Southampton, United Kingdom",within an hour,100%,99%,t,36.0,t,t,Clifton,51.453864213605655,-2.621132768690586,Entire home/apt,4.0,2.0,2 baths,2.0,2.0,2.0,365.0,2.0,365.0,6.0,129.0,44.0,t,1.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Clifton,51.4569251,-2.6180777,Entire home/apt,6.0,2.0,2 baths,3.0,3.0,2.0,365.0,1.0,1125.0,0.0,91.0,130.0,t,148.0,3.0
+2022-01-05,,within an hour,84%,99%,f,210.0,t,t,Avonmouth & Lawrence Weston,51.5,-2.67387,Entire home/apt,6.0,2.0,2 baths,3.0,4.0,1.0,1125.0,1.0,5.0,29.0,364.0,0.0,t,3.0,0.0
+2015-09-21,"London, United Kingdom",within an hour,100%,98%,t,11.0,t,t,Clifton,51.46,-2.61627,Private room,2.0,1.0,1 shared bath,1.0,2.0,1.0,365.0,1.0,365.0,10.0,10.0,6.0,t,4.0,1.0
+2019-01-14,"Bristol, United Kingdom",within an hour,100%,100%,t,60.0,t,t,Hotwells & Harbourside,51.44994,-2.60312,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,1.0,1125.0,1.0,1.0,27.0,58.0,100.0,t,47.0,0.0
+2018-01-16,"Bristol, United Kingdom",a few days or more,0%,40%,f,6.0,t,t,Horfield,51.49136,-2.58546,Private room,2.0,1.0,1 private bath,1.0,1.0,4.0,1125.0,4.0,1125.0,10.0,160.0,8.0,f,6.0,6.0
+2021-09-15,"Fremington, United Kingdom",within an hour,100%,95%,t,5.0,t,t,Avonmouth & Lawrence Weston,51.4947242,-2.6653356,Entire home/apt,8.0,1.0,1 bath,4.0,7.0,1.0,365.0,2.0,1125.0,22.0,348.0,20.0,f,4.0,0.0
+2023-12-12,,within an hour,100%,100%,t,1.0,t,t,Redland,51.4726173,-2.613366,Private room,2.0,1.0,1 shared bath,1.0,2.0,1.0,365.0,1.0,365.0,13.0,70.0,21.0,t,1.0,1.0
+2013-02-26,"Bristol, United Kingdom",,,0%,f,1.0,t,t,Easton,51.46461,-2.55971,Private room,1.0,1.5,1.5 shared baths,1.0,1.0,1.0,20.0,1.0,20.0,0.0,176.0,75.0,f,1.0,1.0
+2022-04-04,"Bristol, United Kingdom",within an hour,100%,100%,f,19.0,t,t,Central,51.4468159,-2.5987048,Entire home/apt,4.0,1.0,1 bath,1.0,3.0,2.0,365.0,2.0,365.0,14.0,338.0,1.0,t,14.0,0.0
+2016-10-30,"Bristol, United Kingdom",within an hour,100%,98%,t,1.0,t,t,Hotwells & Harbourside,51.450126971845066,-2.6070037116834324,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,24.0,1.0,24.0,10.0,329.0,73.0,t,1.0,0.0
+2017-08-17,"Bristol, United Kingdom",within an hour,90%,99%,t,2.0,t,t,Bishopsworth,51.42301,-2.63129,Entire home/apt,6.0,2.0,2 baths,4.0,4.0,2.0,30.0,2.0,1125.0,0.0,32.0,318.0,f,2.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Clifton Down,51.462547,-2.614085,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,365.0,0.0,312.0,20.0,f,148.0,3.0
+2017-09-06,"England, United Kingdom",,,0%,f,1.0,t,t,Hartcliffe & Withywood,51.4091,-2.60805,Private room,2.0,1.0,1 private bath,1.0,1.0,2.0,365.0,2.0,365.0,29.0,269.0,0.0,f,1.0,1.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Hotwells & Harbourside,51.449651,-2.6152811,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,1.0,45.0,1.0,45.0,5.0,292.0,31.0,t,148.0,3.0
+2016-02-28,"Bristol, United Kingdom",within an hour,100%,98%,t,1.0,t,t,Windmill Hill,51.44212,-2.57952,Entire home/apt,6.0,1.0,1 bath,2.0,4.0,4.0,60.0,1.0,1125.0,9.0,212.0,102.0,f,1.0,0.0
+2015-05-10,,within an hour,96%,7%,f,18.0,t,t,Lockleaze,51.48976115071292,-2.563980533272445,Entire home/apt,8.0,1.0,1 bath,4.0,7.0,7.0,365.0,7.0,365.0,30.0,365.0,0.0,f,1.0,0.0
+2014-09-10,"Bristol, United Kingdom",within an hour,100%,99%,t,1.0,t,t,Hotwells & Harbourside,51.44685,-2.61219,Private room,2.0,1.0,1 shared bath,1.0,1.0,2.0,28.0,1.0,1125.0,24.0,84.0,115.0,f,1.0,1.0
+2015-10-12,"England, United Kingdom",within an hour,100%,98%,t,17.0,t,t,Henbury & Brentry,51.5,-2.619,Entire home/apt,7.0,2.0,2 baths,4.0,4.0,3.0,45.0,2.0,45.0,28.0,41.0,1.0,t,15.0,0.0
+2023-01-06,,within a day,80%,23%,f,2.0,t,t,Easton,51.46656,-2.55606,Entire home/apt,4.0,1.5,1.5 baths,2.0,2.0,2.0,365.0,2.0,365.0,0.0,195.0,10.0,f,2.0,1.0
+2024-09-16,"Bristol, United Kingdom",,,100%,f,1.0,t,t,Westbury-on-Trym & Henleaze,51.484858775578566,-2.6108370744968643,Entire home/apt,3.0,1.0,1 bath,2.0,2.0,2.0,7.0,2.0,7.0,0.0,79.0,1.0,f,1.0,0.0
+2013-08-07,"Bristol, United Kingdom",within a few hours,79%,33%,f,2.0,t,t,Easton,51.46975,-2.56471,Private room,1.0,1.0,1 shared bath,1.0,1.0,1.0,730.0,1.0,730.0,14.0,58.0,64.0,f,2.0,1.0
+2022-11-30,,within an hour,100%,100%,f,14.0,t,t,Lawrence Hill,51.45602,-2.57999,Entire home/apt,6.0,2.0,2 baths,2.0,4.0,1.0,365.0,1.0,731.0,16.0,152.0,9.0,t,14.0,0.0
+2021-12-01,,within an hour,99%,97%,f,46.0,t,t,Central,51.45944,-2.60707,Entire home/apt,2.0,1.0,1 bath,0.0,1.0,1.0,365.0,1.0,999.0,30.0,365.0,61.0,t,30.0,0.0
+2013-06-21,"England, United Kingdom",within an hour,100%,88%,t,2.0,t,t,St George West,51.46268,-2.54005,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,4.0,90.0,3.0,1125.0,7.0,8.0,34.0,f,2.0,1.0
+2018-04-07,"England, United Kingdom",,,,f,2.0,t,t,Redland,51.47464,-2.5949,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,730.0,2.0,730.0,12.0,12.0,18.0,f,2.0,1.0
+2018-09-16,"England, United Kingdom",within an hour,100%,100%,f,1.0,t,t,Southmead,51.5,-2.6060495,Entire home/apt,5.0,1.0,1 bath,3.0,3.0,2.0,365.0,1.0,365.0,28.0,363.0,3.0,t,1.0,0.0
+2016-02-20,"England, United Kingdom",within an hour,100%,100%,f,1.0,t,t,Redland,51.4748570462674,-2.6063279996905666,Entire home/apt,6.0,2.0,2 baths,3.0,3.0,2.0,1125.0,2.0,2.0,1.0,36.0,0.0,t,1.0,0.0
+2017-05-26,,within an hour,90%,99%,t,1.0,t,t,Central,51.4473,-2.59377,Entire home/apt,6.0,2.0,2 baths,3.0,3.0,2.0,1125.0,1.0,365.0,11.0,286.0,344.0,t,1.0,0.0
+2015-07-04,"Newton Abbot, United Kingdom",within an hour,100%,100%,f,1.0,t,t,Lawrence Hill,51.45663,-2.58261,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,1125.0,1.0,1125.0,7.0,249.0,452.87,f,1.0,0.0
+2022-06-30,,within an hour,100%,100%,f,54.0,t,t,Central,51.45454,-2.59296,Entire home/apt,8.0,1.0,1 bath,2.0,4.0,1.0,365.0,2.0,99.0,29.0,269.0,5.0,t,32.0,0.0
+2014-08-08,United Kingdom,within an hour,100%,100%,t,1.0,t,t,Bishopston & Ashley Down,51.47592544555664,-2.590518951416016,Entire home/apt,4.0,1.5,1.5 baths,0.0,2.0,2.0,365.0,1.0,1125.0,13.0,348.0,26.0,t,1.0,0.0
+2014-06-10,"Bristol, United Kingdom",within an hour,100%,100%,t,39.0,t,f,Stockwood,51.41349,-2.55433,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,3.0,365.0,3.0,999.0,18.0,78.0,14.0,t,20.0,0.0
+2022-12-16,,within an hour,100%,71%,,6.0,t,t,Hartcliffe & Withywood,51.41026,-2.59539,Entire home/apt,4.0,2.0,2 baths,2.0,3.0,3.0,365.0,3.0,365.0,30.0,170.0,4.0,f,5.0,0.0
+2016-04-18,"England, United Kingdom",within a few hours,100%,100%,f,2.0,t,t,Windmill Hill,51.4377,-2.59619,Private room,1.0,1.5,1.5 shared baths,1.0,1.0,3.0,31.0,3.0,31.0,0.0,44.0,10.0,f,2.0,2.0
+2021-12-01,,within an hour,99%,97%,f,46.0,t,t,Lawrence Hill,51.4552,-2.57941,Entire home/apt,6.0,2.0,2 baths,2.0,3.0,1.0,365.0,1.0,999.0,30.0,363.0,114.0,f,30.0,0.0
+2015-08-02,"Bristol, United Kingdom",within a few hours,100%,17%,f,1.0,t,t,St George Troopers Hill,51.45247,-2.53585,Private room,1.0,2.0,2 shared baths,1.0,1.0,1.0,90.0,1.0,90.0,30.0,90.0,31.0,f,1.0,1.0
+2020-07-24,,within an hour,100%,89%,t,1.0,t,t,Clifton,51.45818,-2.61612,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,2.0,28.0,2.0,28.0,16.0,42.0,296.0,f,1.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Clifton,51.45594,-2.614614,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,365.0,13.0,305.0,191.0,f,148.0,3.0
+2012-02-15,"England, United Kingdom",within an hour,89%,92%,t,1.0,t,t,Cotham,51.46179063410349,-2.6005701809509207,Private room,4.0,1.0,1 shared bath,1.0,2.0,1.0,365.0,1.0,365.0,5.0,338.0,84.0,f,1.0,1.0
+2017-09-06,"Cairo Governorate, Egypt",within an hour,100%,75%,f,1.0,t,t,Horfield,51.49213,-2.58976,Entire home/apt,2.0,1.0,1 bath,1.0,2.0,10.0,120.0,10.0,120.0,6.0,148.0,3.0,f,1.0,0.0
+2015-07-20,"Bristol, United Kingdom",within an hour,100%,95%,t,1.0,t,f,Brislington East,51.44853524594341,-2.5437523797154427,Private room,2.0,1.0,1 private bath,1.0,1.0,2.0,4.0,2.0,1125.0,23.0,292.0,11.0,f,1.0,1.0
+2018-07-17,"Bristol, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Central,51.45542,-2.59773,Entire home/apt,6.0,1.0,1 bath,2.0,3.0,3.0,1125.0,1.0,1125.0,7.0,118.0,312.0,f,1.0,0.0
+2019-11-05,"England, United Kingdom",within an hour,100%,100%,f,1.0,t,t,Central,51.45533911306763,-2.5944290566538912,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,1.0,365.0,1.0,365.0,25.0,344.0,1.0,t,1.0,0.0
+2021-09-15,"Fremington, United Kingdom",within an hour,100%,95%,t,5.0,t,t,Horfield,51.49306,-2.58785,Entire home/apt,7.0,1.0,1 bath,4.0,4.0,1.0,365.0,2.0,1125.0,19.0,339.0,6.0,f,4.0,0.0
+2016-02-22,"Bristol, United Kingdom",,,0%,f,2.0,t,t,Bishopston & Ashley Down,51.48119,-2.58174,Entire home/apt,6.0,1.0,1 bath,2.0,3.0,3.0,365.0,3.0,365.0,0.0,61.0,10.0,f,2.0,1.0
+2013-07-20,"Trabzon, Turkey",,,,f,1.0,t,t,Brislington East,51.45127,-2.53697,Entire home/apt,6.0,1.0,1 bath,1.0,1.0,3.0,365.0,3.0,365.0,27.0,362.0,0.0,f,1.0,0.0
+2018-05-23,"Cobham, United Kingdom",within an hour,100%,100%,t,5.0,t,t,Bishopston & Ashley Down,51.48281,-2.59296,Entire home/apt,6.0,1.5,1.5 baths,3.0,4.0,1.0,1125.0,1.0,1125.0,9.0,238.0,412.0,t,2.0,0.0
+2024-07-31,"Bristol, United Kingdom",within an hour,100%,83%,f,6.0,t,t,Horfield,51.4956016,-2.5753515,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,1125.0,1.0,1125.0,0.0,44.0,7.0,f,6.0,6.0
+2016-03-04,"Bristol, United Kingdom",within an hour,100%,92%,t,1.0,t,t,Bedminster,51.43356,-2.62866,Private room,1.0,1.5,1.5 shared baths,3.0,1.0,2.0,62.0,2.0,1125.0,24.0,172.0,102.0,f,1.0,1.0
+2025-02-04,,within an hour,100%,100%,f,1.0,f,t,Southville,51.44551773566036,-2.591398804866872,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,365.0,1.0,328.0,4.0,t,1.0,0.0
+2015-06-05,"Bristol, United Kingdom",within an hour,100%,44%,f,1.0,t,t,St George West,51.4648541,-2.5382766,Entire home/apt,4.0,1.5,1.5 baths,2.0,3.0,1.0,1125.0,1.0,1125.0,0.0,260.0,3.0,f,1.0,0.0
+2015-09-21,"London, United Kingdom",within an hour,100%,98%,t,11.0,t,t,Clifton,51.46158,-2.61642,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,1.0,365.0,1.0,365.0,13.0,87.0,29.0,f,4.0,1.0
+2016-02-25,"Bristol, United Kingdom",within a few hours,100%,70%,f,1.0,t,t,Eastville,51.47628,-2.5444,Entire home/apt,7.0,2.5,2.5 baths,4.0,4.0,3.0,1125.0,3.0,1125.0,0.0,23.0,17.0,f,1.0,0.0
+2012-10-28,,within an hour,100%,99%,t,2.0,t,t,Clifton,51.45524,-2.62168,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,3.0,730.0,2.0,1125.0,0.0,232.0,452.87,f,2.0,0.0
+2020-06-29,"Bristol, United Kingdom",within a few hours,100%,80%,f,1.0,t,f,St George Central,51.4597,-2.5352,Entire home/apt,12.0,4.0,4 baths,6.0,8.0,14.0,30.0,6.0,30.0,14.0,181.0,9.0,f,1.0,0.0
+2017-10-11,,within an hour,100%,96%,f,39.0,t,t,Clifton Down,51.46544,-2.60964,Entire home/apt,4.0,1.0,1 bath,2.0,3.0,2.0,365.0,1.0,365.0,14.0,349.0,11.0,t,25.0,0.0
+2012-12-17,"Bristol, United Kingdom",within an hour,100%,100%,f,2.0,t,t,Southville,51.44198,-2.61082,Entire home/apt,8.0,2.5,2.5 baths,3.0,4.0,2.0,365.0,1.0,365.0,30.0,48.0,8.0,f,1.0,0.0
+2013-04-18,"Bristol, United Kingdom",within an hour,100%,100%,t,3.0,t,t,Bishopston & Ashley Down,51.47996,-2.57982,Private room,2.0,1.0,1 shared bath,1.0,1.0,2.0,365.0,2.0,365.0,2.0,2.0,15.0,f,3.0,2.0
+2017-09-07,"Pembrokeshire, United Kingdom",within an hour,100%,99%,f,9.0,t,t,Cotham,51.46153,-2.60124,Private room,2.0,0.0,0 shared baths,1.0,1.0,2.0,27.0,2.0,27.0,28.0,361.0,50.0,f,4.0,4.0
+2024-03-22,,within an hour,94%,97%,f,4.0,t,t,Clifton,51.4510519,-2.6217605,Entire home/apt,4.0,2.0,2 baths,2.0,0.0,2.0,365.0,2.0,365.0,30.0,348.0,8.0,f,3.0,0.0
+2022-03-28,,within an hour,100%,100%,f,1.0,t,t,Ashley,51.46375,-2.57954,Private room,2.0,1.0,1 shared bath,1.0,1.0,1.0,365.0,1.0,365.0,28.0,88.0,1.0,f,1.0,1.0
+2015-05-03,"Bristol, United Kingdom",within an hour,100%,100%,f,3.0,t,t,St George West,51.46007,-2.55187,Private room,2.0,1.0,1 shared bath,1.0,1.0,1.0,1125.0,1.0,1125.0,23.0,331.0,3.0,t,3.0,3.0
+2015-10-12,"England, United Kingdom",within an hour,100%,98%,t,17.0,t,t,Lawrence Hill,51.4632526,-2.570535,Entire home/apt,3.0,1.0,1 bath,1.0,2.0,3.0,45.0,3.0,45.0,30.0,171.0,0.0,f,15.0,0.0
+2024-05-05,,,,71%,f,1.0,f,f,Easton,51.46912,-2.55013,Private room,1.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,365.0,29.0,269.0,2.0,f,1.0,1.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Lawrence Hill,51.4568807,-2.5816885,Entire home/apt,2.0,0.0,0 baths,,1.0,1.0,365.0,1.0,365.0,8.0,332.0,0.0,t,148.0,3.0
+2023-08-01,,within an hour,100%,100%,f,1.0,t,t,Clifton Down,51.4665,-2.61114,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,30.0,2.0,1125.0,0.0,139.0,3.0,f,1.0,0.0
+2015-09-29,"Bristol, United Kingdom",within a few hours,100%,92%,f,5.0,t,t,Ashley,51.4665854,-2.5800574,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,3.0,365.0,3.0,365.0,21.0,78.0,43.0,f,5.0,0.0
+2013-03-21,"Bristol, United Kingdom",within an hour,100%,99%,f,14.0,t,t,Central,51.45632937833058,-2.606879318896687,Entire home/apt,2.0,0.0,0 baths,0.0,1.0,28.0,365.0,28.0,1125.0,0.0,320.0,2.0,t,11.0,7.0
+2015-06-11,"Bristol, United Kingdom",within an hour,100%,86%,f,1.0,t,t,Clifton,51.4516,-2.61645,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,1125.0,2.0,1125.0,21.0,65.0,108.0,f,1.0,0.0
+2018-01-09,"Bristol, United Kingdom",within an hour,100%,99%,f,4.0,t,t,Cotham,51.46421,-2.59103,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,365.0,25.0,251.0,19.0,t,4.0,1.0
+2015-08-20,"Bristol, United Kingdom",within an hour,100%,89%,t,1.0,t,t,Central,51.44830703735352,-2.584901094436645,Entire home/apt,2.0,1.5,1.5 baths,1.0,1.0,1.0,100.0,1.0,100.0,2.0,2.0,291.0,f,1.0,0.0
+2022-09-01,,,,,f,1.0,t,f,Lawrence Hill,51.45367758717816,-2.5793173468417314,Entire home/apt,6.0,1.0,1 bath,2.0,3.0,2.0,1125.0,1.0,1125.0,25.0,309.0,0.0,t,1.0,0.0
+2016-06-06,"Bristol, United Kingdom",,,,f,20.0,t,t,Ashley,51.47034,-2.57433,Private room,1.0,1.0,1 shared bath,1.0,1.0,2.0,1125.0,2.0,1125.0,12.0,72.0,82.0,f,14.0,4.0
+2013-10-01,"Bristol, United Kingdom",within an hour,100%,99%,t,1.0,t,t,Clifton,51.45582,-2.61101,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,20.0,2.0,1125.0,0.0,0.0,452.87,t,1.0,0.0
+2014-01-10,"England, United Kingdom",within an hour,100%,95%,t,1.0,t,f,Clifton,51.45562792425608,-2.6206593587994576,Private room,2.0,1.0,1 bath,1.0,1.0,1.0,3.0,1.0,3.0,18.0,96.0,30.0,f,1.0,1.0
+2015-02-24,"Bristol, United Kingdom",within an hour,100%,70%,t,1.0,t,t,St George Central,51.45954,-2.53988,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,60.0,2.0,60.0,3.0,8.0,21.0,f,1.0,0.0
+2014-02-27,"Bristol, United Kingdom",within an hour,100%,93%,t,1.0,t,t,Brislington East,51.4377306332587,-2.5512592121958733,Entire home/apt,6.0,2.5,2.5 baths,4.0,4.0,2.0,10.0,2.0,10.0,11.0,31.0,28.0,f,1.0,0.0
+2022-12-16,,within an hour,100%,71%,,6.0,t,t,Hartcliffe & Withywood,51.40884,-2.59505,Entire home/apt,4.0,2.0,2 baths,2.0,3.0,3.0,365.0,3.0,365.0,24.0,359.0,0.0,f,5.0,0.0
+2024-03-12,,within an hour,100%,100%,f,1.0,t,t,Southmead,51.5,-2.5921740492595244,Private room,1.0,1.0,1 shared bath,1.0,1.0,2.0,730.0,2.0,730.0,20.0,342.0,3.0,f,1.0,1.0
+2021-07-16,,within an hour,100%,83%,f,1.0,t,t,Southville,51.44517792859772,-2.604520160419628,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,365.0,1.0,365.0,0.0,0.0,16.0,f,1.0,1.0
+2014-07-14,"England, United Kingdom",within an hour,100%,71%,f,2.0,t,t,Windmill Hill,51.44114,-2.57943,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,2.0,365.0,2.0,365.0,18.0,330.0,66.0,f,1.0,0.0
+2017-10-11,,within an hour,100%,96%,f,39.0,t,t,Cotham,51.46438829288526,-2.6029732902940856,Entire home/apt,6.0,1.0,1 bath,2.0,3.0,2.0,365.0,2.0,365.0,30.0,90.0,1.0,t,25.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Westbury-on-Trym & Henleaze,51.479881,-2.606125,Entire home/apt,2.0,1.0,1 bath,0.0,1.0,1.0,365.0,1.0,365.0,13.0,347.0,65.0,f,148.0,3.0
+2015-12-18,"Bristol, United Kingdom",within an hour,100%,97%,f,33.0,t,t,Clifton,51.454975,-2.610233,Entire home/apt,9.0,2.5,2.5 baths,4.0,9.0,2.0,999.0,3.0,1125.0,19.0,333.0,72.0,t,26.0,0.0
+2023-02-17,,within an hour,100%,99%,f,156.0,t,t,Central,51.45211,-2.59489,Entire home/apt,4.0,1.0,1 bath,2.0,3.0,1.0,365.0,1.0,6.0,0.0,48.0,8.0,t,8.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Lawrence Hill,51.4568807,-2.5816885,Entire home/apt,2.0,0.0,0 baths,,1.0,1.0,365.0,1.0,365.0,0.0,262.0,7.0,t,148.0,3.0
+2011-11-29,"Bristol, United Kingdom",within an hour,100%,99%,t,2.0,t,t,Central,51.44778,-2.59275,Private room,2.0,1.5,1.5 baths,1.0,1.0,2.0,120.0,2.0,1125.0,13.0,114.0,452.87,t,2.0,2.0
+2017-10-01,"Leeds, United Kingdom",within an hour,100%,100%,f,194.0,t,t,Windmill Hill,51.43961,-2.58526,Entire home/apt,8.0,1.0,1 bath,2.0,4.0,2.0,365.0,2.0,365.0,23.0,351.0,4.0,t,22.0,0.0
+2016-05-30,"Swindon, United Kingdom",within an hour,100%,100%,t,3.0,t,t,Southmead,51.4986991,-2.5995827,Entire home/apt,5.0,1.5,1.5 baths,3.0,5.0,2.0,120.0,2.0,1125.0,21.0,356.0,22.0,t,2.0,0.0
+2012-04-09,"Bristol, United Kingdom",within a few hours,100%,100%,t,2.0,t,t,Redland,51.47461,-2.60433,Entire home/apt,5.0,2.0,2 baths,2.0,5.0,2.0,7.0,2.0,7.0,5.0,236.0,420.0,f,2.0,0.0
+2015-08-16,"England, United Kingdom",within an hour,100%,98%,t,1.0,t,t,Lawrence Hill,51.457401,-2.579705,Entire home/apt,4.0,2.5,2.5 baths,2.0,2.0,3.0,500.0,1.0,1125.0,19.0,296.0,91.0,t,1.0,0.0
+2016-07-14,"England, United Kingdom",within an hour,100%,100%,t,5.0,t,t,Horfield,51.4965,-2.57824,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,1125.0,1.0,1125.0,17.0,92.0,33.0,t,5.0,4.0
+2021-12-01,,within an hour,99%,97%,f,46.0,t,t,Hotwells & Harbourside,51.454914,-2.606047,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,2.0,999.0,25.0,345.0,2.0,t,30.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Clifton,51.4564837,-2.6185424,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,1125.0,3.0,286.0,28.0,t,148.0,3.0
+2021-12-01,,within an hour,99%,97%,f,46.0,t,t,Hotwells & Harbourside,51.454727,-2.606111,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,2.0,999.0,19.0,334.0,3.0,f,30.0,0.0
+2014-01-31,"Bristol, United Kingdom",within a few hours,100%,80%,t,1.0,t,t,Bedminster,51.43751,-2.60665,Private room,2.0,1.0,1 shared bath,1.0,1.0,1.0,2.0,1.0,2.0,11.0,24.0,29.0,f,1.0,1.0
+2012-06-28,"Bristol, United Kingdom",within a day,100%,77%,t,1.0,t,t,Easton,51.46479,-2.56112,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,3.0,365.0,3.0,365.0,0.0,42.0,11.0,f,1.0,0.0
+2022-08-03,"Bristol, United Kingdom",within a few hours,100%,100%,f,1.0,t,f,Ashley,51.4735,-2.57735,Private room,4.0,1.0,1 private bath,1.0,1.0,2.0,365.0,2.0,365.0,0.0,8.0,6.0,f,1.0,1.0
+2015-01-24,"Bristol, United Kingdom",,,50%,f,1.0,t,t,Stockwood,51.42335,-2.56208,Private room,1.0,2.0,2 baths,1.0,1.0,1.0,1125.0,1.0,1125.0,29.0,364.0,2.0,f,1.0,1.0
+2022-12-16,,within an hour,100%,71%,,6.0,t,t,Hartcliffe & Withywood,51.40961,-2.59531,Entire home/apt,4.0,2.0,2 baths,2.0,3.0,3.0,365.0,3.0,365.0,30.0,180.0,5.0,f,5.0,0.0
+2021-03-11,"England, United Kingdom",within an hour,100%,99%,t,1.0,t,t,Hotwells & Harbourside,51.45549,-2.60438,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,2.0,40.0,2.0,30.0,4.0,80.0,22.0,f,1.0,0.0
+2018-09-03,"Bristol, United Kingdom",within an hour,100%,98%,t,8.0,t,t,Ashley,51.463396,-2.578882,Private room,1.0,1.0,1 shared bath,1.0,2.0,1.0,365.0,1.0,1125.0,3.0,3.0,112.0,f,7.0,7.0
+2016-03-22,"Bristol, United Kingdom",within a day,100%,0%,f,1.0,t,t,Bishopston & Ashley Down,51.4742294,-2.5854388,Entire home/apt,2.0,1.0,1 bath,1.0,2.0,2.0,365.0,2.0,365.0,28.0,178.0,0.0,f,1.0,0.0
+2016-04-29,"Doulting, United Kingdom",within an hour,100%,98%,t,3.0,t,t,Bedminster,51.43928,-2.6087,Entire home/apt,5.0,2.5,2.5 baths,3.0,0.0,3.0,365.0,3.0,365.0,30.0,365.0,4.0,f,1.0,0.0
+2024-11-14,"Bristol, United Kingdom",within an hour,100%,100%,f,1.0,t,t,Ashley,51.4685835,-2.5835753,Private room,2.0,1.0,1 private bath,1.0,1.0,2.0,14.0,2.0,14.0,28.0,352.0,4.0,f,1.0,1.0
+2017-12-30,"Bristol, United Kingdom",within an hour,100%,97%,t,27.0,t,t,Lawrence Hill,51.45717,-2.58318,Entire home/apt,4.0,1.0,1 bath,2.0,3.0,3.0,1125.0,2.0,365.0,24.0,125.0,21.0,f,21.0,0.0
+2015-04-25,"Bristol, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Redland,51.47795104980469,-2.5940070152282715,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,2.0,30.0,2.0,30.0,3.0,136.0,65.0,f,1.0,0.0
+2021-07-26,"Bristol, United Kingdom",within a few hours,98%,81%,f,4.0,t,t,Ashley,51.4655,-2.58927,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,1125.0,1.0,1125.0,18.0,341.0,189.0,f,4.0,4.0
+2014-05-03,"Bristol, United Kingdom",within an hour,100%,100%,f,1.0,t,t,Knowle,51.43449,-2.56359,Entire home/apt,6.0,1.0,1 bath,3.0,2.0,2.0,60.0,30.0,1125.0,0.0,76.0,20.0,t,1.0,0.0
+2022-06-28,,within an hour,100%,100%,t,3.0,t,t,Bishopsworth,51.4273,-2.61475,Entire home/apt,6.0,1.0,1 bath,3.0,3.0,2.0,30.0,2.0,1125.0,0.0,93.0,63.0,t,1.0,0.0
+2022-05-12,"Bristol, United Kingdom",within an hour,100%,99%,t,1.0,t,t,Windmill Hill,51.43722,-2.58456,Entire home/apt,2.0,1.0,1 bath,0.0,1.0,1.0,7.0,1.0,1125.0,0.0,0.0,206.0,f,1.0,0.0
+2015-11-17,United Kingdom,within a few hours,100%,42%,f,3.0,t,t,Brislington West,51.43575,-2.55416,Private room,1.0,1.5,1.5 shared baths,1.0,1.0,2.0,365.0,2.0,365.0,30.0,365.0,0.0,f,3.0,3.0
+2016-05-14,"London, United Kingdom",,,,f,1.0,t,t,Ashley,51.4689773,-2.5900292,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,3.0,30.0,3.0,30.0,0.0,65.0,0.0,f,1.0,0.0
+2017-02-03,"Bristol, United Kingdom",within an hour,100%,,f,1.0,t,t,Stockwood,51.414590302975846,-2.534796791031862,Private room,1.0,1.0,1 private bath,1.0,1.0,1.0,365.0,1.0,365.0,17.0,298.0,0.0,f,1.0,1.0
+2017-04-07,"England, United Kingdom",within a few hours,100%,90%,t,1.0,t,t,Ashley,51.4628,-2.58759,Private room,1.0,1.0,1 shared bath,1.0,1.0,3.0,90.0,3.0,90.0,14.0,21.0,43.0,f,1.0,1.0
+2022-01-08,"Bristol, United Kingdom",within an hour,100%,95%,t,20.0,t,t,Avonmouth & Lawrence Weston,51.49753,-2.64766,Entire home/apt,5.0,1.0,1 bath,2.0,4.0,5.0,365.0,2.0,999.0,0.0,124.0,2.0,t,13.0,0.0
+2015-12-18,"Bristol, United Kingdom",within an hour,100%,97%,f,33.0,t,t,Avonmouth & Lawrence Weston,51.5,-2.65929,Entire home/apt,7.0,2.0,2 baths,4.0,5.0,7.0,365.0,4.0,365.0,11.0,51.0,0.0,t,26.0,0.0
+2019-01-14,"Bristol, United Kingdom",within an hour,100%,100%,t,60.0,t,t,Hotwells & Harbourside,51.451394087560544,-2.6042260105616406,Entire home/apt,2.0,1.0,1 bath,1.0,2.0,2.0,1125.0,2.0,2.0,5.0,29.0,0.0,t,47.0,0.0
+2015-02-28,"Bristol, United Kingdom",within an hour,100%,84%,t,2.0,t,t,Lockleaze,51.48413,-2.57874,Private room,2.0,1.0,1 shared bath,1.0,1.0,1.0,1125.0,1.0,1125.0,14.0,142.0,20.0,f,2.0,1.0
+2017-08-14,"Bristol, United Kingdom",,,0%,f,1.0,t,t,Avonmouth & Lawrence Weston,51.48542,-2.67969,Private room,1.0,1.0,1 bath,1.0,1.0,1.0,5.0,1.0,5.0,30.0,365.0,7.0,f,1.0,1.0
+2017-11-14,"England, United Kingdom",,,,f,1.0,t,t,Westbury-on-Trym & Henleaze,51.49903,-2.61928,Private room,2.0,1.0,1 private bath,1.0,1.0,5.0,14.0,5.0,1125.0,23.0,83.0,0.0,t,1.0,1.0
+2014-02-07,"Bristol, United Kingdom",within a day,100%,41%,t,1.0,t,t,Cotham,51.46138,-2.59562,Private room,1.0,1.0,1 private bath,1.0,1.0,1.0,1125.0,1.0,1125.0,15.0,68.0,24.0,f,1.0,1.0
+2012-04-27,"Bristol, United Kingdom",within a day,100%,55%,f,1.0,t,t,Easton,51.46689300000001,-2.555577500000001,Private room,2.0,0.5,Private half-bath,1.0,1.0,2.0,7.0,2.0,7.0,21.0,152.0,3.0,f,1.0,1.0
+2018-07-13,,within an hour,100%,100%,f,4.0,t,t,Clifton Down,51.46522,-2.61786,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,1125.0,2.0,1125.0,30.0,355.0,5.0,t,4.0,0.0
+2022-07-03,"Bristol, United Kingdom",,,97%,f,1.0,t,t,Southville,51.44443,-2.614,Private room,2.0,1.0,1 bath,1.0,1.0,1.0,1125.0,1.0,1125.0,0.0,75.0,78.0,f,1.0,1.0
+2016-11-15,"Bristol, United Kingdom",,,,f,1.0,t,t,Filwood,51.43197,-2.60292,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,6.0,365.0,6.0,365.0,23.0,358.0,2.0,f,1.0,0.0
+2018-08-22,"Bristol, United Kingdom",,,100%,f,1.0,t,t,Clifton,51.4534912109375,-2.6245288848876958,Entire home/apt,5.0,1.5,1.5 baths,3.0,3.0,2.0,365.0,1.0,365.0,0.0,47.0,147.0,f,1.0,0.0
+2017-04-07,"England, United Kingdom",within a few hours,100%,88%,t,3.0,t,t,Ashley,51.46205,-2.58539,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,365.0,2.0,365.0,10.0,341.0,48.0,f,3.0,0.0
+2017-06-02,"Frampton Cotterell, United Kingdom",within an hour,100%,99%,f,52.0,t,t,Frome Vale,51.4808216,-2.5347875,Entire home/apt,5.0,2.0,2 baths,3.0,3.0,2.0,365.0,2.0,365.0,13.0,342.0,5.0,t,4.0,0.0
+2016-06-07,"Bristol, United Kingdom",within a day,100%,24%,f,1.0,t,t,St George West,51.4576,-2.54642,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,5.0,365.0,5.0,365.0,5.0,204.0,5.0,f,1.0,0.0
+2017-11-12,"England, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Central,51.4473,-2.59757,Entire home/apt,3.0,2.0,2 baths,1.0,2.0,2.0,365.0,2.0,365.0,11.0,88.0,21.0,f,1.0,0.0
+2016-08-09,"Bristol, United Kingdom",within an hour,100%,98%,t,1.0,t,t,Bedminster,51.4365,-2.60802,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,3.0,1.0,1125.0,15.0,44.0,293.0,f,1.0,1.0
+2016-07-29,"Bristol, United Kingdom",,,,f,1.0,t,t,Bishopsworth,51.43008310938824,-2.6114102264587413,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,3.0,365.0,3.0,90.0,21.0,356.0,0.0,f,1.0,0.0
+2018-01-31,"England, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Frome Vale,51.48655,-2.54721,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,30.0,1.0,1125.0,15.0,78.0,452.87,t,1.0,1.0
+2019-06-09,"Bristol, United Kingdom",within an hour,100%,100%,t,4.0,t,t,Hengrove & Whitchurch Park,51.41337,-2.56458,Entire home/apt,6.0,1.5,1.5 baths,3.0,3.0,2.0,1125.0,2.0,1125.0,23.0,358.0,1.0,t,3.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Windmill Hill,51.4406875,-2.5775937,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,365.0,13.0,337.0,24.0,t,148.0,3.0
+2013-07-14,"Bristol, United Kingdom",within an hour,100%,98%,t,1.0,t,t,Frome Vale,51.48855,-2.54591,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,2.0,28.0,2.0,1125.0,0.0,47.0,50.0,f,1.0,0.0
+2022-11-01,"Bristol, United Kingdom",within a few hours,100%,90%,f,8.0,t,t,Westbury-on-Trym & Henleaze,51.492147996996096,-2.6364331704755832,Private room,1.0,1.0,1 private bath,1.0,1.0,2.0,365.0,2.0,1125.0,30.0,90.0,0.0,t,7.0,7.0
+2015-06-23,"London, United Kingdom",within an hour,100%,96%,f,8.0,t,t,Bishopston & Ashley Down,51.4849,-2.58708,Entire home/apt,6.0,1.0,1 bath,2.0,2.0,1.0,365.0,1.0,1125.0,18.0,197.0,18.0,f,4.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Clifton Down,51.46255,-2.61483,Hotel room,2.0,1.0,1 private bath,0.0,1.0,1.0,1125.0,1.0,1125.0,21.0,320.0,100.0,f,148.0,3.0
+2017-06-13,"England, United Kingdom",,,,f,1.0,t,t,Horfield,51.49525,-2.58103,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,30.0,1124.0,5.0,1124.0,7.0,154.0,191.0,f,1.0,0.0
+2024-07-31,"Bristol, United Kingdom",within an hour,100%,83%,f,6.0,t,t,Horfield,51.4956016,-2.5753515,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,1125.0,1.0,1125.0,23.0,106.0,13.0,f,6.0,6.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Lawrence Hill,51.4571935,-2.577672,Entire home/apt,4.0,1.5,1.5 baths,2.0,2.0,1.0,365.0,1.0,1125.0,16.0,332.0,55.0,t,148.0,3.0
+2017-12-30,"Bristol, United Kingdom",within an hour,100%,97%,t,27.0,t,t,Central,51.45463,-2.5951,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,1125.0,1.0,1125.0,15.0,313.0,82.0,f,21.0,0.0
+2017-10-11,,within an hour,100%,96%,f,39.0,t,t,Ashley,51.4621,-2.58656,Entire home/apt,6.0,1.0,1 bath,2.0,4.0,2.0,365.0,2.0,365.0,17.0,303.0,3.0,t,25.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Easton,51.466076,-2.563031,Entire home/apt,4.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,365.0,0.0,315.0,7.0,f,148.0,3.0
+2018-08-20,"England, United Kingdom",within an hour,100%,96%,f,2.0,t,t,Ashley,51.45997,-2.58582,Entire home/apt,2.0,1.5,1.5 baths,0.0,1.0,7.0,28.0,7.0,1125.0,30.0,180.0,27.0,f,1.0,0.0
+2016-11-16,"Bristol, United Kingdom",within an hour,100%,100%,f,6.0,t,t,Central,51.46036,-2.5935,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,1125.0,2.0,1125.0,4.0,202.0,25.0,t,6.0,0.0
+2015-09-25,"Bristol, United Kingdom",within an hour,90%,100%,f,1.0,t,t,Eastville,51.47599,-2.54175,Entire home/apt,2.0,1.0,1 bath,1.0,0.0,2.0,14.0,2.0,14.0,20.0,323.0,239.0,t,1.0,0.0
+2012-08-09,"Bristol, United Kingdom",,,33%,f,1.0,t,t,Southville,51.44232,-2.61086,Entire home/apt,6.0,1.5,1.5 baths,3.0,4.0,3.0,14.0,3.0,14.0,10.0,10.0,13.0,f,1.0,0.0
+2022-07-09,"Bristol, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Ashley,51.46606,-2.58077,Private room,1.0,1.0,1 shared bath,0.0,1.0,1.0,7.0,1.0,1125.0,16.0,169.0,98.0,t,1.0,1.0
+2012-09-10,"Bristol, United Kingdom",within an hour,100%,49%,t,2.0,t,t,Knowle,51.43651,-2.57223,Private room,2.0,1.0,1 bath,1.0,1.0,1.0,6.0,1.0,6.0,6.0,6.0,31.0,f,2.0,1.0
+2025-03-17,,,,,f,1.0,t,t,Brislington East,51.44530832558091,-2.5414282456040382,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,365.0,0.0,132.0,0.0,f,1.0,0.0
+2022-06-30,,within an hour,100%,100%,f,54.0,t,t,St George West,51.46066807836775,-2.550209645964161,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,1.0,90.0,2.0,90.0,0.0,99.0,0.0,t,32.0,0.0
+2016-07-24,"Bristol, United Kingdom",within an hour,100%,100%,t,2.0,t,t,Horfield,51.49081,-2.57814,Private room,1.0,1.0,1 shared bath,1.0,1.0,1.0,30.0,1.0,1125.0,0.0,283.0,97.0,t,2.0,2.0
+2021-12-01,,within an hour,99%,97%,f,46.0,t,t,Hotwells & Harbourside,51.4552,-2.60637,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,2.0,999.0,24.0,341.0,1.0,f,30.0,0.0
+2015-08-10,"Bristol, United Kingdom",,,95%,t,1.0,t,t,Southville,51.44096,-2.60506,Private room,2.0,1.5,1.5 shared baths,1.0,1.0,14.0,90.0,14.0,90.0,8.0,68.0,32.0,f,1.0,1.0
+2015-04-22,"Bristol, United Kingdom",within an hour,100%,92%,f,1.0,t,t,Central,51.45446,-2.59576,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,7.0,100.0,7.0,100.0,5.0,5.0,49.0,f,1.0,0.0
+2014-01-10,"England, United Kingdom",,,,f,1.0,t,t,Eastville,51.47815780000001,-2.537251,Entire home/apt,3.0,1.0,1 bath,1.0,1.0,2.0,365.0,2.0,365.0,0.0,192.0,6.0,f,1.0,0.0
+2016-06-25,"England, United Kingdom",within a few hours,100%,56%,t,1.0,t,t,Eastville,51.47123,-2.56084,Private room,1.0,1.0,1 bath,1.0,1.0,1.0,20.0,1.0,20.0,29.0,269.0,24.0,f,1.0,1.0
+2022-11-01,"Bristol, United Kingdom",within a few hours,100%,90%,f,8.0,t,t,Westbury-on-Trym & Henleaze,51.4930563,-2.6368706,Private room,1.0,3.0,3 baths,6.0,7.0,1.0,365.0,1.0,1125.0,30.0,365.0,0.0,t,7.0,7.0
+2023-06-19,"London, United Kingdom",within an hour,100%,92%,f,7.0,t,t,Windmill Hill,51.4402819,-2.5785965,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,2.0,1125.0,22.0,56.0,31.0,t,4.0,0.0
+2018-07-03,"Bristol, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Hotwells & Harbourside,51.45501,-2.60683,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,1125.0,2.0,1125.0,17.0,186.0,414.0,t,1.0,0.0
+2016-04-03,"Bristol, United Kingdom",within an hour,80%,96%,f,6.0,t,t,Lockleaze,51.49494934082031,-2.5665030479431152,Private room,2.0,1.5,1.5 shared baths,1.0,1.0,1.0,1125.0,1.0,1125.0,30.0,365.0,23.0,f,5.0,5.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Easton,51.466076,-2.563031,Entire home/apt,4.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,365.0,0.0,306.0,17.0,f,148.0,3.0
+2017-11-23,"Bristol, United Kingdom",within an hour,100%,100%,f,2.0,t,t,Lawrence Hill,51.46075,-2.57457,Private room,2.0,1.0,1 bath,1.0,0.0,1.0,365.0,1.0,365.0,5.0,5.0,14.0,f,2.0,2.0
+2024-07-31,"Bristol, United Kingdom",within an hour,100%,83%,f,6.0,t,t,Horfield,51.49317,-2.57698,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,1125.0,1.0,1125.0,23.0,102.0,2.0,f,6.0,6.0
+2017-10-17,"England, United Kingdom",within an hour,100%,73%,t,19.0,t,t,Hartcliffe & Withywood,51.40608,-2.59305,Entire home/apt,4.0,2.0,2 baths,2.0,3.0,3.0,365.0,3.0,365.0,30.0,270.0,5.0,f,1.0,0.0
+2024-09-04,"Bristol, United Kingdom",,,,f,1.0,t,t,Westbury-on-Trym & Henleaze,51.49469367868196,-2.6138113619018566,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,28.0,1.0,1125.0,10.0,200.0,97.0,f,1.0,0.0
+2017-02-15,"Bristol, United Kingdom",within an hour,100%,64%,f,3.0,t,t,Knowle,51.43545,-2.57659,Entire home/apt,4.0,1.0,1 bath,2.0,5.0,2.0,5.0,2.0,5.0,28.0,88.0,7.0,f,3.0,1.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Hotwells & Harbourside,51.4498361,-2.6191684,Entire home/apt,4.0,1.5,1.5 baths,2.0,2.0,2.0,365.0,1.0,365.0,0.0,275.0,51.0,f,148.0,3.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Cotham,51.465096,-2.590753,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,1.0,365.0,1.0,365.0,11.0,152.0,6.0,t,148.0,3.0
+2015-02-19,"Bristol, United Kingdom",within a few hours,100%,74%,f,2.0,t,t,Ashley,51.47329,-2.57591,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,28.0,2.0,28.0,0.0,19.0,3.0,f,2.0,1.0
+2018-06-04,"England, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Eastville,51.47249,-2.55439,Private room,2.0,1.0,1 shared bath,1.0,1.0,1.0,62.0,1.0,1125.0,0.0,225.0,23.0,f,1.0,1.0
+2017-10-01,"Leeds, United Kingdom",within an hour,100%,100%,f,194.0,t,t,St George Central,51.46577,-2.527,Entire home/apt,12.0,4.0,4.5 baths,5.0,8.0,2.0,365.0,2.0,1125.0,12.0,200.0,59.0,t,22.0,0.0
+2023-07-04,,within an hour,100%,99%,t,1.0,t,t,Southville,51.4456,-2.60219,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,2.0,1125.0,1.0,365.0,14.0,280.0,60.0,t,1.0,0.0
+2020-08-02,"Bristol, United Kingdom",within an hour,100%,95%,t,2.0,t,t,Hotwells & Harbourside,51.45546,-2.60511,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,2.0,365.0,1.0,365.0,21.0,231.0,69.0,f,2.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Central,51.4504027,-2.5884682,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,1125.0,15.0,298.0,15.0,t,148.0,3.0
+2018-07-28,,within an hour,67%,67%,f,1.0,f,t,Hillfields,51.47625012088668,-2.52,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,3.0,365.0,3.0,365.0,0.0,317.0,1.0,f,1.0,0.0
+2017-12-18,"England, United Kingdom",within a few hours,100%,38%,f,1.0,t,t,St George West,51.45834,-2.55201,Private room,1.0,1.0,1 shared bath,1.0,0.0,1.0,30.0,1.0,30.0,7.0,55.0,8.0,f,1.0,1.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Lawrence Hill,51.4568807,-2.5816885,Entire home/apt,2.0,0.0,0 baths,,1.0,1.0,365.0,1.0,365.0,7.0,341.0,0.0,t,148.0,3.0
+2017-09-27,"England, United Kingdom",within a day,70%,71%,f,2.0,t,t,Westbury-on-Trym & Henleaze,51.48578,-2.61841,Entire home/apt,2.0,1.5,1.5 baths,0.0,1.0,3.0,21.0,3.0,21.0,2.0,119.0,67.0,f,2.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Lawrence Hill,51.4568807,-2.5816885,Entire home/apt,2.0,0.0,0 baths,,1.0,1.0,365.0,1.0,365.0,0.0,318.0,5.0,t,148.0,3.0
+2014-12-16,"Bristol, United Kingdom",within a day,50%,33%,f,1.0,t,f,St George West,51.458247,-2.5472029,Private room,2.0,1.0,1 shared bath,1.0,1.0,3.0,21.0,3.0,21.0,29.0,179.0,41.0,f,1.0,1.0
+2022-04-04,"Bristol, United Kingdom",within an hour,100%,100%,f,19.0,t,t,Cotham,51.465143,-2.5904907,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,365.0,2.0,365.0,25.0,360.0,1.0,t,14.0,0.0
+2015-05-17,"England, United Kingdom",within an hour,100%,93%,t,1.0,t,t,Southmead,51.5,-2.6075,Private room,2.0,2.0,2 shared baths,1.0,1.0,1.0,7.0,1.0,7.0,5.0,108.0,109.0,f,1.0,1.0
+2014-09-05,"Bristol, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Southville,51.44564,-2.60258,Private room,2.0,1.0,1 private bath,1.0,1.0,2.0,30.0,2.0,30.0,1.0,188.0,217.0,t,1.0,1.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Clifton,51.454667,-2.6221165,Entire home/apt,4.0,2.0,2 baths,2.0,2.0,2.0,365.0,2.0,365.0,14.0,238.0,9.0,t,148.0,3.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Central,51.449524,-2.596795,Entire home/apt,2.0,1.0,1 bath,1.0,0.0,1.0,365.0,1.0,1125.0,0.0,139.0,100.0,f,148.0,3.0
+2015-11-17,United Kingdom,within a few hours,100%,42%,f,3.0,t,t,Brislington West,51.43448,-2.55414,Private room,1.0,1.5,1.5 shared baths,1.0,1.0,2.0,365.0,2.0,365.0,30.0,365.0,0.0,f,3.0,3.0
+2019-05-14,"Bristol, United Kingdom",within a day,100%,90%,f,2.0,t,t,Horfield,51.49402,-2.57867,Private room,2.0,2.0,2 shared baths,1.0,2.0,30.0,180.0,30.0,1125.0,29.0,179.0,57.0,t,2.0,2.0
+2014-09-17,"Bristol, United Kingdom",within an hour,100%,97%,t,1.0,t,t,Redland,51.47037,-2.60549,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,1125.0,1.0,1125.0,22.0,156.0,254.0,f,1.0,0.0
+2019-01-28,"Bristol, United Kingdom",within a few hours,90%,100%,t,1.0,t,t,Frome Vale,51.4834,-2.52766,Entire home/apt,4.0,1.0,1 bath,2.0,4.0,1.0,30.0,1.0,1125.0,17.0,63.0,51.0,t,1.0,0.0
+2013-09-04,"Bristol, United Kingdom",within an hour,100%,58%,t,1.0,t,t,Henbury & Brentry,51.5,-2.59961,Private room,1.0,1.0,1 bath,1.0,1.0,3.0,31.0,3.0,31.0,0.0,8.0,216.0,f,1.0,1.0
+2017-08-19,"Bristol, United Kingdom",,,,f,2.0,t,t,Hengrove & Whitchurch Park,51.421622377129005,-2.568293505135736,Private room,2.0,1.0,1 private bath,1.0,1.0,2.0,365.0,2.0,365.0,29.0,89.0,0.0,f,1.0,1.0
+2022-10-03,,within an hour,100%,100%,t,1.0,t,t,Clifton Down,51.468515,-2.613881,Entire home/apt,8.0,2.0,2 baths,4.0,4.0,2.0,365.0,2.0,1125.0,20.0,216.0,101.0,f,1.0,0.0
+2023-06-14,"London, United Kingdom",,,100%,f,210.0,t,t,Ashley,51.46048,-2.58941,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,3.0,365.0,3.0,365.0,0.0,42.0,9.0,t,7.0,2.0
+2016-06-12,"Bristol, United Kingdom",within a few hours,100%,,f,1.0,t,t,Southmead,51.4925547,-2.6073599,Entire home/apt,6.0,2.5,2.5 baths,3.0,3.0,2.0,365.0,2.0,365.0,1.0,131.0,0.0,f,1.0,0.0
+2014-08-02,"Bristol, United Kingdom",within an hour,100%,100%,f,1.0,t,t,Stoke Bishop,51.48358,-2.64164,Private room,2.0,1.0,1 private bath,1.0,1.0,2.0,15.0,2.0,1125.0,0.0,45.0,15.0,f,1.0,1.0
+2017-04-13,"Bristol, United Kingdom",within an hour,99%,97%,f,100.0,t,t,Cotham,51.46266,-2.6037,Entire home/apt,6.0,3.0,3 baths,2.0,4.0,1.0,1125.0,1.0,1125.0,20.0,342.0,77.0,f,67.0,0.0
+2014-06-18,"England, United Kingdom",a few days or more,40%,50%,f,1.0,t,t,Horfield,51.4976543,-2.5778009,Private room,1.0,1.5,1.5 shared baths,1.0,1.0,4.0,1125.0,4.0,1125.0,5.0,65.0,6.0,f,1.0,1.0
+2023-10-04,,,,100%,f,2.0,t,t,Easton,51.459537639325134,-2.5565193593502045,Entire home/apt,1.0,1.0,1 bath,1.0,1.0,2.0,365.0,2.0,365.0,30.0,365.0,0.0,f,2.0,1.0
+2022-07-28,"Bournemouth, United Kingdom",within an hour,100%,100%,t,10.0,t,t,Central,51.45401419979632,-2.6010334314360146,Entire home/apt,6.0,3.0,3 baths,3.0,3.0,28.0,365.0,28.0,365.0,27.0,71.0,0.0,f,1.0,0.0
+2015-01-25,"Bristol, United Kingdom",within an hour,100%,94%,t,1.0,t,t,Bishopston & Ashley Down,51.479,-2.58235,Private room,2.0,1.5,1.5 baths,1.0,1.0,1.0,10.0,1.0,1125.0,0.0,169.0,75.0,t,1.0,1.0
+2017-08-11,"Bristol, United Kingdom",within an hour,100%,92%,f,37.0,t,t,Hotwells & Harbourside,51.4550102,-2.6041519,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,90.0,1.0,999.0,0.0,0.0,1.0,t,25.0,0.0
+2015-07-05,"Bristol, United Kingdom",within an hour,100%,93%,t,1.0,t,t,Bedminster,51.43975,-2.60308,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,10.0,1.0,1125.0,12.0,64.0,156.0,t,1.0,1.0
+2014-12-21,"Bristol, United Kingdom",within an hour,100%,100%,t,5.0,t,t,Avonmouth & Lawrence Weston,51.49401,-2.6511,Private room,2.0,1.0,1 shared bath,1.0,1.0,1.0,365.0,1.0,365.0,30.0,365.0,8.0,f,4.0,4.0
+2015-11-10,"Bath, United Kingdom",within an hour,100%,96%,t,1.0,t,t,Bishopston & Ashley Down,51.47583,-2.59061,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,14.0,1.0,1125.0,4.0,142.0,286.0,f,1.0,1.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Southville,51.4410177,-2.6036539,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,1.0,365.0,1.0,365.0,0.0,198.0,1.0,t,148.0,3.0
+2023-08-19,"Bristol, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Brislington East,51.4362704,-2.5360806,Entire home/apt,4.0,3.0,3 baths,2.0,0.0,1.0,500.0,1.0,500.0,11.0,296.0,76.0,t,1.0,0.0
+2019-10-09,"England, United Kingdom",within an hour,100%,100%,f,1.0,t,t,Central,51.4567,-2.59805,Entire home/apt,4.0,1.5,1.5 baths,1.0,2.0,2.0,365.0,2.0,1125.0,9.0,173.0,214.0,f,1.0,0.0
+2019-11-19,"Bristol, United Kingdom",,,100%,t,2.0,t,t,Stockwood,51.42924118041992,-2.5576460361480717,Private room,2.0,2.0,2 shared baths,1.0,1.0,1.0,3.0,1.0,3.0,0.0,77.0,14.0,f,2.0,2.0
+2013-08-18,"Bristol, United Kingdom",within an hour,100%,100%,f,2.0,t,t,Windmill Hill,51.44237,-2.58312,Private room,2.0,1.0,1 shared bath,1.0,2.0,4.0,42.0,4.0,42.0,30.0,40.0,5.0,f,1.0,1.0
+2017-01-16,"Bristol, United Kingdom",within an hour,100%,87%,t,3.0,t,t,Ashley,51.46535637622811,-2.588714584708214,Private room,1.0,1.0,1 shared bath,1.0,1.0,3.0,600.0,2.0,600.0,7.0,328.0,15.0,f,3.0,2.0
+2019-03-07,"Chester, United Kingdom",within an hour,88%,97%,f,210.0,t,t,Avonmouth & Lawrence Weston,51.48203,-2.6823,Entire home/apt,4.0,1.0,1 bath,2.0,3.0,2.0,1125.0,2.0,2.0,30.0,365.0,2.0,t,1.0,0.0
+2019-04-10,,within an hour,95%,100%,f,6.0,t,t,Clifton Down,51.45855,-2.61085,Private room,1.0,1.0,1 private bath,1.0,1.0,1.0,1125.0,1.0,1125.0,28.0,359.0,57.0,t,6.0,6.0
+2017-10-11,,within an hour,100%,96%,f,39.0,t,t,Clifton Down,51.46656,-2.61144,Entire home/apt,6.0,1.0,1 bath,2.0,3.0,2.0,365.0,2.0,365.0,12.0,347.0,8.0,f,25.0,0.0
+2021-12-01,,within an hour,99%,97%,f,46.0,t,t,Central,51.4588,-2.60769,Entire home/apt,4.0,1.0,1 bath,0.0,3.0,1.0,365.0,1.0,999.0,28.0,359.0,274.0,f,30.0,0.0
+2016-02-13,"England, United Kingdom",within a day,79%,21%,f,1.0,t,t,Ashley,51.46702,-2.58325,Entire home/apt,8.0,2.5,2.5 baths,5.0,5.0,1.0,10.0,1.0,10.0,24.0,77.0,59.0,f,1.0,0.0
+2017-10-11,,within an hour,100%,96%,f,39.0,t,t,Clifton Down,51.46617,-2.60914,Entire home/apt,7.0,2.0,2 baths,2.0,5.0,15.0,365.0,15.0,365.0,30.0,365.0,2.0,f,25.0,0.0
+2013-02-12,"Bristol, United Kingdom",within an hour,100%,94%,t,2.0,t,t,Hotwells & Harbourside,51.44885,-2.61513,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,4.0,1.0,4.0,11.0,28.0,360.0,f,2.0,1.0
+2017-10-01,"Leeds, United Kingdom",within an hour,100%,100%,f,194.0,t,t,Hotwells & Harbourside,51.446878714404725,-2.6139076993616164,Entire home/apt,10.0,1.0,1 bath,2.0,6.0,2.0,365.0,2.0,365.0,27.0,153.0,0.0,t,22.0,0.0
+2023-06-21,,within a few hours,100%,96%,t,1.0,t,t,Clifton,51.45105,-2.62167,Entire home/apt,3.0,1.0,1 bath,1.0,2.0,1.0,1125.0,1.0,1125.0,0.0,166.0,49.0,f,1.0,0.0
+2014-06-10,"Bristol, United Kingdom",within an hour,100%,100%,t,39.0,t,f,Southmead,51.5,-2.60147,Entire home/apt,8.0,2.0,2 baths,5.0,5.0,3.0,365.0,3.0,999.0,0.0,56.0,1.0,t,20.0,0.0
+2017-08-11,"Bristol, United Kingdom",within an hour,100%,92%,f,37.0,t,t,Central,51.4547779,-2.6029008,Entire home/apt,4.0,2.0,2 baths,2.0,2.0,3.0,240.0,3.0,240.0,0.0,0.0,1.0,f,25.0,0.0
+2017-04-13,"Bristol, United Kingdom",within an hour,99%,97%,f,100.0,t,t,Central,51.44777,-2.5939,Entire home/apt,6.0,3.0,3 baths,3.0,3.0,1.0,1125.0,2.0,1125.0,8.0,262.0,54.0,f,67.0,0.0
+2018-06-04,,within an hour,90%,99%,f,1.0,t,t,Clifton,51.4562,-2.62163,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,14.0,2.0,14.0,14.0,238.0,55.0,t,1.0,0.0
+2018-10-27,"England, United Kingdom",within an hour,100%,100%,f,1.0,t,t,Bedminster,51.43945,-2.60804,Entire home/apt,4.0,1.0,1 bath,1.0,2.0,1.0,1125.0,1.0,1125.0,0.0,224.0,91.0,f,1.0,0.0
+2019-01-14,"Bristol, United Kingdom",within an hour,100%,100%,t,60.0,t,t,Lawrence Hill,51.45547,-2.578,Entire home/apt,6.0,2.0,2 baths,3.0,4.0,2.0,1125.0,2.0,2.0,20.0,245.0,57.0,t,47.0,0.0
+2022-04-04,"Bristol, United Kingdom",within an hour,100%,100%,f,19.0,t,t,Ashley,51.4617359049822,-2.5853927876968363,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,365.0,1.0,365.0,11.0,69.0,7.0,t,14.0,0.0
+2023-08-03,"Bristol, United Kingdom",within an hour,100%,87%,,25.0,t,t,Easton,51.4689796,-2.5502972,Entire home/apt,10.0,1.5,1.5 baths,5.0,5.0,4.0,1000.0,7.0,1125.0,7.0,66.0,4.0,t,18.0,0.0
+2015-12-20,"England, United Kingdom",within an hour,100%,96%,t,1.0,t,t,Bedminster,51.442733,-2.629336,Entire home/apt,2.0,1.5,1.5 baths,0.0,1.0,2.0,28.0,2.0,1125.0,14.0,277.0,286.0,t,1.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Frome Vale,51.4839073,-2.5209257,Entire home/apt,4.0,1.0,1 bath,4.0,4.0,2.0,365.0,1.0,365.0,0.0,118.0,1.0,f,148.0,3.0
+2019-05-16,,within an hour,100%,98%,t,1.0,t,t,Bishopsworth,51.42377,-2.61993,Private room,1.0,1.0,1 shared bath,1.0,1.0,2.0,30.0,2.0,30.0,8.0,53.0,131.0,f,1.0,1.0
+2021-10-18,"Bristol, United Kingdom",within a day,75%,40%,f,7.0,t,t,Ashley,51.47104,-2.5858,Private room,2.0,1.0,1 shared bath,1.0,1.0,1.0,180.0,1.0,180.0,30.0,365.0,17.0,f,7.0,7.0
+2015-11-21,"Bristol, United Kingdom",within an hour,100%,100%,t,5.0,t,t,Clifton Down,51.4704,-2.6115,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,5.0,1.0,5.0,6.0,170.0,452.87,f,4.0,0.0
+2017-10-11,,within an hour,100%,96%,f,39.0,t,t,Clifton Down,51.46693,-2.6116,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,2.0,365.0,2.0,365.0,0.0,299.0,22.0,t,25.0,0.0
+2017-08-11,"Bristol, United Kingdom",within an hour,100%,92%,f,37.0,t,t,Clifton Down,51.4578,-2.60987,Entire home/apt,3.0,0.0,0 baths,1.0,2.0,1.0,365.0,1.0,999.0,30.0,363.0,21.0,t,25.0,0.0
+2024-01-30,,within an hour,100%,100%,t,1.0,t,t,Hotwells & Harbourside,51.44946,-2.60715,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,365.0,2.0,365.0,13.0,102.0,75.0,t,1.0,0.0
+2016-06-27,"Bristol, United Kingdom",within a day,100%,88%,f,1.0,t,t,Ashley,51.4722522,-2.5812613,Entire home/apt,2.0,2.0,2 baths,1.0,1.0,2.0,365.0,2.0,365.0,0.0,13.0,7.0,f,1.0,0.0
+2015-01-28,"Bristol, United Kingdom",within an hour,100%,93%,f,2.0,t,t,St George Troopers Hill,51.45561,-2.52862,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,10.0,730.0,5.0,730.0,0.0,8.0,12.0,f,2.0,1.0
+2018-09-05,"England, United Kingdom",within an hour,100%,42%,f,1.0,t,t,Central,51.45633,-2.60575,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,6.0,730.0,6.0,730.0,0.0,141.0,53.0,f,1.0,0.0
+2014-04-06,"Bristol, United Kingdom",within an hour,100%,96%,f,4.0,t,t,Easton,51.45932,-2.55527,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,4.0,1125.0,4.0,1125.0,12.0,34.0,43.0,f,2.0,0.0
+2019-06-09,"Bristol, United Kingdom",within a day,100%,100%,f,1.0,t,t,Filwood,51.42560590889647,-2.57966042260488,Private room,1.0,0.5,Shared half-bath,1.0,1.0,1.0,365.0,1.0,365.0,23.0,83.0,0.0,f,1.0,1.0
+2016-10-27,"England, United Kingdom",within an hour,100%,100%,f,1.0,t,t,Hillfields,51.47063929991412,-2.526312991976738,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,365.0,2.0,365.0,30.0,359.0,0.0,t,1.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Central,51.4532955,-2.5966296,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,1125.0,10.0,129.0,61.0,t,148.0,3.0
+2019-01-14,"Bristol, United Kingdom",within an hour,100%,100%,t,60.0,t,t,St George West,51.46094,-2.54553,Entire home/apt,5.0,1.0,1 bath,3.0,3.0,2.0,1125.0,2.0,1125.0,28.0,356.0,6.0,t,47.0,0.0
+2024-04-03,,within a day,83%,80%,f,2.0,f,f,Eastville,51.47213,-2.53572,Private room,2.0,1.0,1 shared bath,1.0,1.0,1.0,365.0,1.0,365.0,0.0,291.0,5.0,f,2.0,2.0
+2016-01-05,"Bristol, United Kingdom",within a few hours,92%,76%,t,2.0,t,f,Frome Vale,51.490413,-2.52,Private room,1.0,1.0,1 shared bath,1.0,1.0,2.0,1125.0,2.0,1125.0,21.0,171.0,36.0,f,2.0,2.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Clifton,51.4564837,-2.6185424,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,1125.0,0.0,291.0,60.0,t,148.0,3.0
+2014-06-10,"Bristol, United Kingdom",within an hour,100%,100%,t,39.0,t,f,Southville,51.445499,-2.609951,Entire home/apt,6.0,1.0,1 bath,2.0,3.0,3.0,1125.0,3.0,999.0,14.0,74.0,72.0,f,20.0,0.0
+2024-11-10,"Bristol, United Kingdom",within an hour,100%,100%,f,1.0,t,t,Eastville,51.464637294140665,-2.546221422090156,Entire home/apt,3.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,365.0,13.0,330.0,12.0,t,1.0,0.0
+2022-01-10,,within a few hours,100%,67%,f,1.0,t,t,Easton,51.46425,-2.55911,Entire home/apt,5.0,1.5,1.5 baths,3.0,5.0,5.0,21.0,5.0,21.0,0.0,61.0,2.0,f,1.0,0.0
+2015-07-20,"Southampton, United Kingdom",within a day,90%,50%,f,1.0,t,t,Ashley,51.46504,-2.5887,Private room,2.0,1.0,1 private bath,1.0,1.0,2.0,14.0,2.0,14.0,28.0,359.0,4.0,f,1.0,1.0
+2016-06-27,"Bristol, United Kingdom",within a few hours,100%,27%,f,1.0,t,t,Ashley,51.47095,-2.57694,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,14.0,365.0,7.0,365.0,21.0,356.0,5.0,f,1.0,0.0
+2021-12-01,,within an hour,99%,97%,f,46.0,t,t,Lawrence Hill,51.45681,-2.58107,Entire home/apt,8.0,2.0,2 baths,3.0,5.0,1.0,365.0,1.0,999.0,17.0,330.0,54.0,f,30.0,0.0
+2013-10-17,"Bristol, United Kingdom",within an hour,100%,96%,t,1.0,t,t,Cotham,51.46699,-2.59563,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,4.0,30.0,4.0,1125.0,0.0,9.0,106.0,f,1.0,0.0
+2024-01-04,"Bristol, United Kingdom",within an hour,100%,96%,,7.0,t,t,Frome Vale,51.48812,-2.52134,Entire home/apt,2.0,1.0,1 bath,0.0,1.0,1.0,1125.0,1.0,30.0,8.0,58.0,96.0,f,1.0,0.0
+2015-01-19,"Bristol, United Kingdom",within an hour,100%,99%,t,2.0,t,t,Easton,51.46442816705029,-2.561807277253979,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,5.0,1.0,1125.0,7.0,12.0,154.0,t,2.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Ashley,51.4711145,-2.579743,Entire home/apt,6.0,1.0,1 bath,3.0,3.0,1.0,365.0,1.0,365.0,18.0,325.0,7.0,t,148.0,3.0
+2012-01-21,"Bristol, United Kingdom",within a few hours,100%,67%,f,1.0,t,t,St George West,51.46311,-2.54342,Entire home/apt,6.0,1.0,1 bath,3.0,3.0,2.0,100.0,2.0,100.0,0.0,210.0,9.0,f,1.0,0.0
+2019-01-14,"Bristol, United Kingdom",within an hour,100%,100%,t,60.0,t,t,Southville,51.44421,-2.59168,Entire home/apt,6.0,2.0,2 baths,2.0,3.0,2.0,1125.0,2.0,1125.0,20.0,258.0,28.0,t,47.0,0.0
+2018-07-06,"Bristol, United Kingdom",within an hour,100%,96%,t,1.0,t,t,Filwood,51.4214,-2.58083,Private room,1.0,1.0,1 shared bath,1.0,1.0,2.0,14.0,3.0,14.0,20.0,20.0,50.0,f,1.0,1.0
+2022-04-04,"Bristol, United Kingdom",within an hour,100%,100%,f,19.0,t,t,Westbury-on-Trym & Henleaze,51.4932508,-2.6188589,Entire home/apt,6.0,2.0,2 baths,3.0,3.0,2.0,365.0,2.0,365.0,18.0,350.0,2.0,t,14.0,0.0
+2018-02-07,"Bristol, United Kingdom",within an hour,100%,100%,t,1.0,t,f,Redland,51.4770186,-2.5919691,Entire home/apt,1.0,1.0,1 bath,1.0,0.0,2.0,56.0,2.0,1125.0,1.0,258.0,35.0,t,1.0,0.0
+2023-06-12,"Cheltenham, United Kingdom",within a few hours,100%,86%,t,1.0,t,t,Southville,51.44449340000001,-2.593903,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,3.0,22.0,3.0,22.0,7.0,21.0,24.0,f,1.0,0.0
+2019-01-06,"Winterbourne, United Kingdom",within an hour,100%,96%,t,4.0,t,t,Frome Vale,51.49229,-2.52103,Private room,1.0,1.0,1 shared bath,1.0,1.0,1.0,5.0,1.0,5.0,28.0,178.0,29.0,f,2.0,2.0
+2014-09-06,"Bristol, United Kingdom",within an hour,100%,96%,t,2.0,t,t,Horfield,51.49245,-2.59862,Private room,1.0,1.0,1 private bath,1.0,1.0,1.0,1125.0,1.0,1125.0,6.0,227.0,153.0,t,2.0,2.0
+2019-01-14,"Bristol, United Kingdom",within an hour,100%,100%,t,60.0,t,t,Clifton Down,51.46861,-2.60942,Entire home/apt,4.0,2.0,2 baths,2.0,2.0,2.0,1125.0,2.0,2.0,28.0,59.0,62.0,t,47.0,0.0
+2020-07-10,,,,,f,12.0,t,t,Ashley,51.46151,-2.58529,Entire home/apt,4.0,1.0,1 bath,1.0,3.0,2.0,190.0,2.0,1125.0,18.0,344.0,126.0,f,9.0,0.0
+2016-04-03,"Bristol, United Kingdom",within an hour,80%,96%,f,6.0,t,t,Lockleaze,51.4949828,-2.5665536,Private room,1.0,2.0,2 shared baths,1.0,1.0,1.0,365.0,1.0,1125.0,30.0,270.0,16.0,t,5.0,5.0
+2021-02-22,,within an hour,100%,100%,f,1.0,t,t,Ashley,51.46113887620755,-2.588820363827649,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,30.0,1.0,30.0,12.0,161.0,0.0,f,1.0,1.0
+2020-02-03,,within an hour,100%,100%,t,4.0,t,t,Clifton Down,51.46987,-2.61488,Entire home/apt,2.0,1.0,1 bath,0.0,1.0,2.0,180.0,2.0,1125.0,18.0,78.0,97.0,f,4.0,0.0
+2016-11-18,"Bristol, United Kingdom",,,,f,1.0,t,t,Clifton Down,51.4579,-2.61249,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,6.0,365.0,6.0,365.0,0.0,230.0,0.0,f,1.0,0.0
+2015-02-06,"Bristol, United Kingdom",within a few hours,100%,78%,t,4.0,t,t,Brislington West,51.43732,-2.5632,Private room,4.0,1.0,1 private bath,2.0,2.0,2.0,365.0,2.0,365.0,23.0,217.0,11.0,f,4.0,3.0
+2022-08-25,,within an hour,100%,100%,f,1.0,t,f,Bedminster,51.43493264600881,-2.62773104815653,Entire home/apt,1.0,1.0,1 bath,1.0,1.0,1.0,2.0,1.0,2.0,29.0,130.0,15.0,f,1.0,0.0
+2014-10-08,"London Borough of Lewisham, United Kingdom",within an hour,100%,86%,t,1.0,t,t,Southville,51.44281,-2.61171,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,4.0,1125.0,4.0,1125.0,10.0,207.0,22.0,f,1.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Clifton,51.455309,-2.622228,Entire home/apt,2.0,1.0,1 bath,0.0,1.0,1.0,365.0,1.0,1125.0,12.0,327.0,25.0,t,148.0,3.0
+2016-07-10,"Clevedon, United Kingdom",within a few hours,100%,100%,f,1.0,t,t,Ashley,51.470901970633015,-2.5825633917344426,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,3.0,30.0,1.0,30.0,0.0,71.0,3.0,f,1.0,0.0
+2015-01-07,"Bristol, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Central,51.451171467942245,-2.5949018571472093,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,30.0,2.0,30.0,14.0,256.0,30.0,f,1.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Clifton Down,51.46255,-2.61483,Hotel room,2.0,1.0,1 private bath,0.0,1.0,1.0,1125.0,1.0,1125.0,28.0,346.0,203.0,f,148.0,3.0
+2020-07-22,,within a day,80%,43%,f,1.0,t,t,Windmill Hill,51.43694,-2.59849,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,4.0,30.0,4.0,30.0,21.0,352.0,47.0,f,1.0,0.0
+2015-04-02,"Bristol, United Kingdom",within a few hours,100%,70%,f,1.0,t,t,Redland,51.47487,-2.59262,Entire home/apt,6.0,1.5,1.5 baths,3.0,4.0,1.0,14.0,1.0,14.0,0.0,46.0,63.0,f,1.0,0.0
+2024-01-07,"Bristol, United Kingdom",a few days or more,25%,57%,f,1.0,t,f,Filwood,51.4218872094762,-2.582993097603321,Private room,1.0,1.5,1.5 baths,1.0,1.0,2.0,31.0,2.0,31.0,29.0,89.0,5.0,f,1.0,1.0
+2015-06-25,"Bristol, United Kingdom",within a few hours,100%,74%,f,2.0,t,t,Redland,51.47964,-2.5896,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,31.0,2.0,31.0,21.0,348.0,4.0,f,2.0,1.0
+2021-09-15,,within an hour,100%,100%,t,1.0,t,t,Horfield,51.49867,-2.58222,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,21.0,2.0,1125.0,25.0,175.0,117.0,t,1.0,0.0
+2022-04-07,,within an hour,100%,100%,t,1.0,t,t,Cotham,51.462357,-2.596832,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,1125.0,8.0,108.0,167.0,t,1.0,0.0
+2019-01-14,"Bristol, United Kingdom",within an hour,100%,100%,t,60.0,t,t,Hotwells & Harbourside,51.4518817232405,-2.60383754232788,Entire home/apt,4.0,1.0,1 bath,1.0,3.0,2.0,1125.0,2.0,2.0,30.0,67.0,1.0,t,47.0,0.0
+2014-05-11,"England, United Kingdom",within a few hours,100%,100%,t,1.0,t,t,Clifton Down,51.46620105288767,-2.608662843704224,Entire home/apt,3.0,1.0,1 bath,1.0,2.0,14.0,700.0,2.0,700.0,4.0,111.0,100.0,f,1.0,0.0
+2015-03-29,"Bristol, United Kingdom",within an hour,100%,93%,f,2.0,t,t,Clifton,51.4559,-2.61116,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,3.0,730.0,3.0,730.0,6.0,200.0,4.0,f,2.0,0.0
+2015-10-12,"Bristol, United Kingdom",within an hour,100%,100%,t,1.0,t,t,Bedminster,51.43871,-2.6113,Private room,2.0,1.0,1 shared bath,1.0,1.0,1.0,1125.0,1.0,1125.0,15.0,31.0,250.0,f,1.0,1.0
+2014-12-21,"Bristol, United Kingdom",within an hour,100%,100%,t,5.0,t,t,Avonmouth & Lawrence Weston,51.49394,-2.651,Private room,2.0,2.0,2 baths,1.0,1.0,1.0,365.0,1.0,365.0,30.0,365.0,4.0,f,4.0,4.0
+2015-11-11,"Bristol, United Kingdom",within an hour,100%,100%,t,2.0,t,t,Westbury-on-Trym & Henleaze,51.49514,-2.61095,Private room,2.0,1.0,1 bath,1.0,1.0,1.0,1125.0,1.0,1125.0,0.0,255.0,14.0,f,2.0,2.0
+2014-02-11,,within a few hours,100%,40%,f,2.0,t,t,Hotwells & Harbourside,51.44932,-2.62186,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,7.0,1125.0,4.0,1125.0,0.0,202.0,11.0,f,2.0,0.0
+2023-06-13,,within an hour,100%,97%,t,5.0,t,f,Ashley,51.4645179,-2.5880107,Entire home/apt,10.0,2.0,2 baths,5.0,9.0,14.0,365.0,14.0,365.0,30.0,365.0,0.0,f,2.0,0.0
+2014-11-09,"Bristol, United Kingdom",within an hour,100%,77%,t,5.0,t,f,Brislington East,51.43555,-2.54704,Private room,2.0,1.0,1 bath,1.0,1.0,1.0,365.0,1.0,365.0,29.0,269.0,2.0,f,4.0,3.0
+2015-01-09,"Liverpool, United Kingdom",within an hour,100%,97%,t,1.0,t,t,Easton,51.467256332692266,-2.561828342327881,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,1.0,365.0,1.0,365.0,2.0,8.0,24.0,f,1.0,0.0
+2019-07-08,"England, United Kingdom",within a day,100%,70%,t,1.0,t,t,Horfield,51.49775,-2.57368,Entire home/apt,8.0,2.5,2.5 baths,4.0,4.0,1.0,730.0,1.0,730.0,0.0,288.0,63.0,f,1.0,0.0
+2016-08-05,"Bristol, United Kingdom",within an hour,100%,100%,f,1.0,t,t,Horfield,51.49126,-2.58025,Entire home/apt,10.0,2.5,2.5 baths,4.0,6.0,3.0,999.0,1.0,999.0,11.0,151.0,13.0,t,1.0,0.0
+2017-10-11,,within an hour,100%,96%,f,39.0,t,t,Cotham,51.46469,-2.5973,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,2.0,365.0,2.0,365.0,24.0,309.0,7.0,t,25.0,0.0
+2017-11-16,"Bristol, United Kingdom",within an hour,100%,98%,f,51.0,t,t,Clifton Down,51.45798,-2.61212,Entire home/apt,3.0,1.0,1 bath,1.0,2.0,2.0,1125.0,2.0,365.0,13.0,311.0,70.0,t,2.0,0.0
+2014-08-03,"London, United Kingdom",within an hour,100%,73%,f,9.0,t,t,Southville,51.44161,-2.61722,Entire home/apt,6.0,1.0,1 bath,3.0,5.0,5.0,365.0,5.0,365.0,12.0,347.0,5.0,f,6.0,0.0
+2023-06-14,"London, United Kingdom",,,100%,f,210.0,t,t,Southville,51.44196,-2.59254,Private room,1.0,1.0,1 private bath,1.0,1.0,3.0,365.0,3.0,1125.0,0.0,50.0,0.0,t,7.0,2.0
+2019-11-20,,within an hour,94%,100%,f,210.0,t,t,Frome Vale,51.48237,-2.52,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,1.0,1125.0,1.0,1125.0,29.0,364.0,17.0,t,2.0,0.0
+2019-01-08,"Bristol, United Kingdom",,,,f,1.0,t,f,Stoke Bishop,51.48976,-2.64935,Entire home/apt,3.0,1.0,1 bath,3.0,2.0,5.0,43.0,5.0,43.0,6.0,25.0,0.0,f,1.0,0.0
+2019-12-23,"Bristol, United Kingdom",within an hour,100%,89%,f,2.0,t,t,Windmill Hill,51.4398767,-2.5726818,Entire home/apt,3.0,1.0,1 bath,1.0,2.0,1.0,365.0,1.0,999.0,10.0,134.0,6.0,t,2.0,0.0
+2012-04-26,"Bristol, United Kingdom",within an hour,100%,25%,f,1.0,t,t,Bedminster,51.43761,-2.60565,Entire home/apt,6.0,1.0,1 bath,3.0,4.0,4.0,28.0,3.0,28.0,29.0,364.0,23.0,f,1.0,0.0
+2022-03-23,"Bristol, United Kingdom",within an hour,100%,100%,f,1.0,t,t,Central,51.45327,-2.5952,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,1125.0,1.0,365.0,23.0,353.0,122.0,t,1.0,0.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Hotwells & Harbourside,51.449651,-2.6152811,Entire home/apt,2.0,1.0,1 bath,0.0,1.0,1.0,45.0,1.0,45.0,12.0,298.0,18.0,t,148.0,3.0
+2012-08-30,"Bristol, United Kingdom",a few days or more,0%,,f,1.0,t,t,Redland,51.47541,-2.59695,Entire home/apt,9.0,3.5,3.5 baths,5.0,5.0,4.0,1125.0,4.0,1125.0,0.0,241.0,12.0,f,1.0,0.0
+2017-07-20,"Bristol, United Kingdom",,,,f,1.0,t,t,Hengrove & Whitchurch Park,51.42504,-2.56885,Private room,1.0,1.0,1 shared bath,1.0,1.0,1.0,365.0,1.0,365.0,29.0,268.0,0.0,f,1.0,1.0
+2016-03-31,"Bristol, United Kingdom",within an hour,100%,100%,f,210.0,t,t,Clifton Down,51.46252,-2.61473,Entire home/apt,10.0,4.0,5 baths,5.0,5.0,1.0,1125.0,1.0,1125.0,0.0,138.0,28.0,f,148.0,3.0
+2019-04-10,,within an hour,95%,100%,f,6.0,t,t,Clifton Down,51.46019,-2.61104,Private room,2.0,1.0,1 private bath,1.0,1.0,1.0,1125.0,1.0,1125.0,25.0,354.0,6.0,t,6.0,6.0
+2014-03-11,"Folkestone, United Kingdom",within an hour,100%,91%,t,2.0,t,t,Southmead,51.5,-2.58862,Private room,2.0,1.0,1 shared bath,1.0,1.0,1.0,2.0,1.0,2.0,21.0,21.0,452.87,f,2.0,2.0
+2023-03-27,"Cotham, United Kingdom",within an hour,100%,99%,t,1.0,t,t,Cotham,51.4638784,-2.5921095,Entire home/apt,5.0,1.0,1 bath,2.0,1.0,1.0,1125.0,1.0,1125.0,0.0,260.0,105.0,f,1.0,0.0
+2015-01-20,"Bristol, United Kingdom",within a few hours,100%,77%,f,1.0,t,t,Stoke Bishop,51.47501,-2.62819,Entire home/apt,2.0,1.0,1 bath,1.0,1.0,2.0,7.0,2.0,7.0,0.0,7.0,6.0,f,1.0,0.0
+2019-11-12,"Bristol, United Kingdom",within an hour,100%,98%,t,1.0,t,f,Bishopsworth,51.4299068,-2.6114261,Entire home/apt,3.0,1.5,1.5 baths,1.0,1.0,1.0,3.0,1.0,3.0,23.0,80.0,54.0,f,1.0,0.0
+2021-01-03,,within an hour,90%,99%,f,3.0,t,t,Eastville,51.47486,-2.5479,Entire home/apt,6.0,1.0,1 bath,2.0,6.0,2.0,1125.0,2.0,1125.0,7.0,252.0,59.0,t,3.0,0.0
+2024-06-03,,a few days or more,0%,0%,f,1.0,f,t,Horfield,51.49507,-2.58816,Entire home/apt,2.0,0.5,Half-bath,1.0,1.0,1.0,365.0,1.0,365.0,29.0,89.0,0.0,f,1.0,0.0
+2016-06-06,"Bristol, United Kingdom",,,,f,20.0,t,t,St George West,51.46396687737248,-2.5495832781350822,Entire home/apt,4.0,1.0,1 bath,2.0,2.0,2.0,27.0,2.0,1125.0,22.0,122.0,2.0,t,14.0,4.0
+2016-05-22,"Bristol, United Kingdom",within an hour,100%,88%,f,1.0,t,t,Clifton Down,51.46006,-2.61383,Entire home/apt,2.0,1.5,1.5 baths,1.0,1.0,1.0,3.0,1.0,1125.0,2.0,18.0,34.0,f,1.0,0.0
+2015-03-20,"Bristol, United Kingdom",within an hour,100%,100%,t,2.0,t,t,Redland,51.47725,-2.59179,Private room,6.0,1.0,1 private bath,3.0,4.0,1.0,7.0,1.0,1125.0,6.0,311.0,200.0,f,2.0,2.0
