@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+  <body>
+    <h3>Airbnb Price Predictor</h3>
+    {% if error %}
+      <div style="color: red;">{{ error }}</div>
+    {% endif %}
+    {% if prediction %}
+      <div style="color: green;">Prediction: {{ prediction }}</div>
+    {% endif %}
+    <form action="/predict" method="post">
+      {% for f in features %}
+        <label>{{ f }}:
+          <input name="{{ f }}" type="text" />
+        </label><br>
+      {% endfor %}
+      <button type="submit">Predict</button>
+    </form>
