@@ -9,7 +9,13 @@ After reviewing the dataset, features such as neighbourhood, neighbourhood_group
 This project aims to uncover actionable insights for hosts and Airbnb by leveraging data-driven approaches to predict listing price
 
 ## Running the App
-Navigate to app.py in deploy directory
+
+WARNING: By this point you should have the virtual environment installed. If not proceed back to the main page and follow the instructions.
+
+
+1. Clone the full project
+
+2. Activate the conda environment and Navigate to app.py in deploy directory
 ```
 python deploy/app.py
 ```
@@ -17,4 +23,5 @@ The server will start at:
 http://localhost:3000
 
 NOTE: Make sure you enter the correct type value for each feature, an example can be found at deploy/payload.json
+
 
