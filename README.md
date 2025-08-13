@@ -159,15 +159,15 @@ Used metrics such as accuracy, precision, recall, f1 and AUC.
 
 ## Results and Evaluation
 - Regression (log(y)):
-    - R^2: 0.742
-    - MAE: $0.21
-    - RMSLE: 0.0029
+    - R^2: 0.728
+    - MAE: 0.22
+    - MSE: 0.09
     - MAPE: 0.05
 
 - Regression (original scale):
-    - R^2: 0.665
-    - MAE: $21.89
-    - RMSLE: 0.0832
+    - R^2: 0.651
+    - MAE: $22.37
+    - MSLE: 0.0876
     - MAPE: 0.22
 
 - Classification:
@@ -186,5 +186,6 @@ Here are some of the improvements I look forward in making:
 - Implement error handling in API
 - Improve reproducibility of the project by using Docker, GitHub Actions and Makefile
 - Better directory modularization
+
 
 ## License & Acknowledgments
