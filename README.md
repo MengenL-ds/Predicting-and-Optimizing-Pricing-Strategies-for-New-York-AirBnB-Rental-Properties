@@ -124,8 +124,9 @@ I will also conduct hyperparameter tuning for the best classification model
 
 Used metrics such as accuracy, precision, recall, f1 and AUC.
 
-## Code Structure
+## Project Structure
 
+```plaintext
 ├── data/                           # Raw and processed datasets
 │   ├── listings.csv
 │   ├── X_train.csv
@@ -149,10 +150,10 @@ Used metrics such as accuracy, precision, recall, f1 and AUC.
 │   └── raw_schema.json
 │
 ├── AirBnB.ipynb                     # Main notebook for analysis/modeling
-├── EDA.ipynb                         # Exploratory Data Analysis
-├── Feature_importances.ipynb         # Feature importance analysis
-├── models.ipynb                      # Model training/evaluation
-├── custom_transformers.py            # Custom sklearn transformers
+├── EDA.ipynb                        # Exploratory Data Analysis
+├── Feature_importances.ipynb        # Feature importance analysis
+├── models.ipynb                     # Model training/evaluation
+├── custom_transformers.py           # Custom sklearn transformers
 │
 ├── LICENSE
 ├── README.md
@@ -160,7 +161,7 @@ Used metrics such as accuracy, precision, recall, f1 and AUC.
 ## Results and Evaluation
 - Regression (log(y)):
     - R^2: 0.728
-    - MAE: 0.22
+    - MAE: $0.22
     - MSE: 0.09
     - MAPE: 0.05
 
@@ -186,6 +187,5 @@ Here are some of the improvements I look forward in making:
 - Implement error handling in API
 - Improve reproducibility of the project by using Docker, GitHub Actions and Makefile
 - Better directory modularization
-
 
 ## License & Acknowledgments
